@@ -72,6 +72,9 @@
 * [编程的原则 改善代码质量的101个方法.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E7%BC%96%E7%A8%8B%E7%9A%84%E5%8E%9F%E5%88%99%20%E6%94%B9%E5%96%84%E4%BB%A3%E7%A0%81%E8%B4%A8%E9%87%8F%E7%9A%84101%E4%B8%AA%E6%96%B9%E6%B3%95.mobi)    [编程的原则 改善代码质量的101个方法.pdf](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E7%BC%96%E7%A8%8B%E7%9A%84%E5%8E%9F%E5%88%99%20%E6%94%B9%E5%96%84%E4%BB%A3%E7%A0%81%E8%B4%A8%E9%87%8F%E7%9A%84101%E4%B8%AA%E6%96%B9%E6%B3%95.pdf)
 * [重构改善既有代码的设计第2版.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E9%87%8D%E6%9E%84%E6%94%B9%E5%96%84%E6%97%A2%E6%9C%89%E4%BB%A3%E7%A0%81%E7%9A%84%E8%AE%BE%E8%AE%A1%E7%AC%AC2%E7%89%88.mobi)
 * [编程之美-微软技术面试心得.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E-%E5%BE%AE%E8%BD%AF%E6%8A%80%E6%9C%AF%E9%9D%A2%E8%AF%95%E5%BF%83%E5%BE%97.mobi)
+* [大道至易：实践者的思想（第二版）.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E5%A4%A7%E9%81%93%E8%87%B3%E6%98%93%EF%BC%9A%E5%AE%9E%E8%B7%B5%E8%80%85%E7%9A%84%E6%80%9D%E6%83%B3%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.mobi)    [大道至易：实践者的思想（第二版）.epub](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E5%A4%A7%E9%81%93%E8%87%B3%E6%98%93%EF%BC%9A%E5%AE%9E%E8%B7%B5%E8%80%85%E7%9A%84%E6%80%9D%E6%83%B3%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.epub)
+* [程序原本.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E7%A8%8B%E5%BA%8F%E5%8E%9F%E6%9C%AC.mobi)    [程序原本.epub](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E7%A8%8B%E5%BA%8F%E5%8E%9F%E6%9C%AC.epub)
+* [我的架构思想.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E6%88%91%E7%9A%84%E6%9E%B6%E6%9E%84%E6%80%9D%E6%83%B3.mobi)    [我的架构思想.epub](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E6%88%91%E7%9A%84%E6%9E%B6%E6%9E%84%E6%80%9D%E6%83%B3.epub)
 
 
 
@@ -194,8 +197,6 @@
 * [查拉图斯特拉如是说尼采经典著作.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E6%9F%A5%E6%8B%89%E5%9B%BE%E6%96%AF%E7%89%B9%E6%8B%89%E5%A6%82%E6%98%AF%E8%AF%B4%E5%B0%BC%E9%87%87%E7%BB%8F%E5%85%B8%E8%91%97%E4%BD%9C.mobi)
 * [人为什么活着.epub](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B4%BB%E7%9D%80.epub)	[人为什么活着.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B4%BB%E7%9D%80.mobi)
 * [你的灯亮着吗发现问题的真正所在.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E4%BD%A0%E7%9A%84%E7%81%AF%E4%BA%AE%E7%9D%80%E5%90%97%E5%8F%91%E7%8E%B0%E9%97%AE%E9%A2%98%E7%9A%84%E7%9C%9F%E6%AD%A3%E6%89%80%E5%9C%A8.mobi)
-* [具体数学：计算机科学基础（第2版）.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E5%85%B7%E4%BD%93%E6%95%B0%E5%AD%A6%EF%BC%9A%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.mobi)
-* [别闹了费曼先生.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E5%88%AB%E9%97%B9%E4%BA%86%E8%B4%B9%E6%9B%BC%E5%85%88%E7%94%9F.mobi)
 * [清醒思考的艺术.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E6%B8%85%E9%86%92%E6%80%9D%E8%80%83%E7%9A%84%E8%89%BA%E6%9C%AF.mobi)
 * [禅与摩托车维修艺术.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E7%A6%85%E4%B8%8E%E6%91%A9%E6%89%98%E8%BD%A6%E7%BB%B4%E4%BF%AE%E8%89%BA%E6%9C%AF.mobi)
 * [给理想一点时间.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E7%BB%99%E7%90%86%E6%83%B3%E4%B8%80%E7%82%B9%E6%97%B6%E9%97%B4.mobi)
@@ -204,7 +205,8 @@
 * [被讨厌的勇气.epub](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E8%A2%AB%E8%AE%A8%E5%8E%8C%E7%9A%84%E5%8B%87%E6%B0%94.epub)    [被讨厌的勇气.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E8%A2%AB%E8%AE%A8%E5%8E%8C%E7%9A%84%E5%8B%87%E6%B0%94.mobi)
 * [诡辩与真相.epub](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E8%AF%A1%E8%BE%A9%E4%B8%8E%E7%9C%9F%E7%9B%B8.epub)    [诡辩与真相.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E8%AF%A1%E8%BE%A9%E4%B8%8E%E7%9C%9F%E7%9B%B8.mobi)
 * [读书毁了我.epub](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E8%AF%BB%E4%B9%A6%E6%AF%81%E4%BA%86%E6%88%91.epub)    [读书毁了我.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E8%AF%BB%E4%B9%A6%E6%AF%81%E4%BA%86%E6%88%91.mobi)
-* [费马大定理：一个困惑了世间智者358年的谜.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E8%B4%B9%E9%A9%AC%E5%A4%A7%E5%AE%9A%E7%90%86%EF%BC%9A%E4%B8%80%E4%B8%AA%E5%9B%B0%E6%83%91%E4%BA%86%E4%B8%96%E9%97%B4%E6%99%BA%E8%80%85358%E5%B9%B4%E7%9A%84%E8%B0%9C.mobi)
+* [有限与无限的游戏-一个哲学家眼中的竞技世界.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E6%9C%89%E9%99%90%E4%B8%8E%E6%97%A0%E9%99%90%E7%9A%84%E6%B8%B8%E6%88%8F-%E4%B8%80%E4%B8%AA%E5%93%B2%E5%AD%A6%E5%AE%B6%E7%9C%BC%E4%B8%AD%E7%9A%84%E7%AB%9E%E6%8A%80%E4%B8%96%E7%95%8C.mobi)    [有限与无限的游戏-一个哲学家眼中的竞技世界.epub](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E6%9C%89%E9%99%90%E4%B8%8E%E6%97%A0%E9%99%90%E7%9A%84%E6%B8%B8%E6%88%8F-%E4%B8%80%E4%B8%AA%E5%93%B2%E5%AD%A6%E5%AE%B6%E7%9C%BC%E4%B8%AD%E7%9A%84%E7%AB%9E%E6%8A%80%E4%B8%96%E7%95%8C.epub)    [有限与无限的游戏-一个哲学家眼中的竞技世界.azw3](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E6%9C%89%E9%99%90%E4%B8%8E%E6%97%A0%E9%99%90%E7%9A%84%E6%B8%B8%E6%88%8F-%E4%B8%80%E4%B8%AA%E5%93%B2%E5%AD%A6%E5%AE%B6%E7%9C%BC%E4%B8%AD%E7%9A%84%E7%AB%9E%E6%8A%80%E4%B8%96%E7%95%8C.azw3)
+* [为什么：关于因果关系的新科学.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E4%B8%BA%E4%BB%80%E4%B9%88%EF%BC%9A%E5%85%B3%E4%BA%8E%E5%9B%A0%E6%9E%9C%E5%85%B3%E7%B3%BB%E7%9A%84%E6%96%B0%E7%A7%91%E5%AD%A6.mobi)    [为什么：关于因果关系的新科学.epub](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E4%B8%BA%E4%BB%80%E4%B9%88%EF%BC%9A%E5%85%B3%E4%BA%8E%E5%9B%A0%E6%9E%9C%E5%85%B3%E7%B3%BB%E7%9A%84%E6%96%B0%E7%A7%91%E5%AD%A6.epub)    [为什么：关于因果关系的新科学.azw3](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E4%B8%BA%E4%BB%80%E4%B9%88%EF%BC%9A%E5%85%B3%E4%BA%8E%E5%9B%A0%E6%9E%9C%E5%85%B3%E7%B3%BB%E7%9A%84%E6%96%B0%E7%A7%91%E5%AD%A6.azw3)
 
 ## 历史
 
@@ -216,6 +218,8 @@
 * [大问题.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E5%A4%A7%E9%97%AE%E9%A2%98.mobi)
 * [天才与算法人脑与ai的数学思维.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E5%A4%A9%E6%89%8D%E4%B8%8E%E7%AE%97%E6%B3%95%E4%BA%BA%E8%84%91%E4%B8%8Eai%E7%9A%84%E6%95%B0%E5%AD%A6%E6%80%9D%E7%BB%B4.mobi)
 * [随机漫步的傻瓜.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E9%9A%8F%E6%9C%BA%E6%BC%AB%E6%AD%A5%E7%9A%84%E5%82%BB%E7%93%9C.mobi)
+* [费马大定理：一个困惑了世间智者358年的谜.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E8%B4%B9%E9%A9%AC%E5%A4%A7%E5%AE%9A%E7%90%86%EF%BC%9A%E4%B8%80%E4%B8%AA%E5%9B%B0%E6%83%91%E4%BA%86%E4%B8%96%E9%97%B4%E6%99%BA%E8%80%85358%E5%B9%B4%E7%9A%84%E8%B0%9C.mobi)
+* [具体数学：计算机科学基础（第2版）.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E5%85%B7%E4%BD%93%E6%95%B0%E5%AD%A6%EF%BC%9A%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.mobi)
 
 ## 读物
 
@@ -230,6 +234,7 @@
 * [俗世奇人.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E4%BF%97%E4%B8%96%E5%A5%87%E4%BA%BA.mobi)
 * [给青年的十二封信.epub](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E7%BB%99%E9%9D%92%E5%B9%B4%E7%9A%84%E5%8D%81%E4%BA%8C%E5%B0%81%E4%BF%A1.epub)     [给青年的十二封信.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E7%BB%99%E9%9D%92%E5%B9%B4%E7%9A%84%E5%8D%81%E4%BA%8C%E5%B0%81%E4%BF%A1.mobi)
 * [走近费曼丛书别逗了费曼先生科学鬼才费曼的逗逼人生.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E8%B5%B0%E8%BF%91%E8%B4%B9%E6%9B%BC%E4%B8%9B%E4%B9%A6%E5%88%AB%E9%80%97%E4%BA%86%E8%B4%B9%E6%9B%BC%E5%85%88%E7%94%9F%E7%A7%91%E5%AD%A6%E9%AC%BC%E6%89%8D%E8%B4%B9%E6%9B%BC%E7%9A%84%E9%80%97%E9%80%BC%E4%BA%BA%E7%94%9F.mobi)
+* [别闹了费曼先生.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E5%88%AB%E9%97%B9%E4%BA%86%E8%B4%B9%E6%9B%BC%E5%85%88%E7%94%9F.mobi)
 * [过得刚好郭德纲亲笔作品讲述人生四十多年的江湖过往.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E8%BF%87%E5%BE%97%E5%88%9A%E5%A5%BD%E9%83%AD%E5%BE%B7%E7%BA%B2%E4%BA%B2%E7%AC%94%E4%BD%9C%E5%93%81%E8%AE%B2%E8%BF%B0%E4%BA%BA%E7%94%9F%E5%9B%9B%E5%8D%81%E5%A4%9A%E5%B9%B4%E7%9A%84%E6%B1%9F%E6%B9%96%E8%BF%87%E5%BE%80.mobi)
 
 ## 创业
@@ -262,3 +267,6 @@
 * [终身学习：10个你必须掌握的未来生存法则.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E7%BB%88%E8%BA%AB%E5%AD%A6%E4%B9%A0%EF%BC%9A10%E4%B8%AA%E4%BD%A0%E5%BF%85%E9%A1%BB%E6%8E%8C%E6%8F%A1%E7%9A%84%E6%9C%AA%E6%9D%A5%E7%94%9F%E5%AD%98%E6%B3%95%E5%88%99.mobi)
 * [贫穷的本质我们为什么摆脱不了贫穷.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E8%B4%AB%E7%A9%B7%E7%9A%84%E6%9C%AC%E8%B4%A8%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E6%91%86%E8%84%B1%E4%B8%8D%E4%BA%86%E8%B4%AB%E7%A9%B7.mobi)
 * [蛤蟆先生去看心理医生.epub](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E8%9B%A4%E8%9F%86%E5%85%88%E7%94%9F%E5%8E%BB%E7%9C%8B%E5%BF%83%E7%90%86%E5%8C%BB%E7%94%9F.epub)    [蛤蟆先生去看心理医生.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E8%9B%A4%E8%9F%86%E5%85%88%E7%94%9F%E5%8E%BB%E7%9C%8B%E5%BF%83%E7%90%86%E5%8C%BB%E7%94%9F.mobi)
+* [笑场 李诞.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E7%AC%91%E5%9C%BA%20%E6%9D%8E%E8%AF%9E.mobi)    [笑场 李诞.epub](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E7%AC%91%E5%9C%BA%20%E6%9D%8E%E8%AF%9E.epub)
+* [中国式场面话大全-杨百平.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E5%9C%BA%E9%9D%A2%E8%AF%9D%E5%A4%A7%E5%85%A8-%E6%9D%A8%E7%99%BE%E5%B9%B3.mobi)    [中国式场面话大全-杨百平.epub](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E5%9C%BA%E9%9D%A2%E8%AF%9D%E5%A4%A7%E5%85%A8-%E6%9D%A8%E7%99%BE%E5%B9%B3.epub)
+* [极客爱情.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E6%9E%81%E5%AE%A2%E7%88%B1%E6%83%85.mobi)

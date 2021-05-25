@@ -72,7 +72,6 @@
 * [编程的原则 改善代码质量的101个方法.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E7%BC%96%E7%A8%8B%E7%9A%84%E5%8E%9F%E5%88%99%20%E6%94%B9%E5%96%84%E4%BB%A3%E7%A0%81%E8%B4%A8%E9%87%8F%E7%9A%84101%E4%B8%AA%E6%96%B9%E6%B3%95.mobi)    [编程的原则 改善代码质量的101个方法.pdf](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E7%BC%96%E7%A8%8B%E7%9A%84%E5%8E%9F%E5%88%99%20%E6%94%B9%E5%96%84%E4%BB%A3%E7%A0%81%E8%B4%A8%E9%87%8F%E7%9A%84101%E4%B8%AA%E6%96%B9%E6%B3%95.pdf)
 * [重构改善既有代码的设计第2版.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E9%87%8D%E6%9E%84%E6%94%B9%E5%96%84%E6%97%A2%E6%9C%89%E4%BB%A3%E7%A0%81%E7%9A%84%E8%AE%BE%E8%AE%A1%E7%AC%AC2%E7%89%88.mobi)
 * [编程之美-微软技术面试心得.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E-%E5%BE%AE%E8%BD%AF%E6%8A%80%E6%9C%AF%E9%9D%A2%E8%AF%95%E5%BF%83%E5%BE%97.mobi)
-* [大道至易：实践者的思想（第二版）.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E5%A4%A7%E9%81%93%E8%87%B3%E6%98%93%EF%BC%9A%E5%AE%9E%E8%B7%B5%E8%80%85%E7%9A%84%E6%80%9D%E6%83%B3%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.mobi)    [大道至易：实践者的思想（第二版）.epub](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E5%A4%A7%E9%81%93%E8%87%B3%E6%98%93%EF%BC%9A%E5%AE%9E%E8%B7%B5%E8%80%85%E7%9A%84%E6%80%9D%E6%83%B3%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.epub)
 * [程序原本.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E7%A8%8B%E5%BA%8F%E5%8E%9F%E6%9C%AC.mobi)    [程序原本.epub](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E7%A8%8B%E5%BA%8F%E5%8E%9F%E6%9C%AC.epub)
 * [我的架构思想.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E6%88%91%E7%9A%84%E6%9E%B6%E6%9E%84%E6%80%9D%E6%83%B3.mobi)    [我的架构思想.epub](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E6%88%91%E7%9A%84%E6%9E%B6%E6%9E%84%E6%80%9D%E6%83%B3.epub)
 
@@ -82,38 +81,41 @@
 
 程序员相关的周边读物, 如项目管理, 人物传,  产品等等
 
-* [人月神话.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E4%BA%BA%E6%9C%88%E7%A5%9E%E8%AF%9D.mobi)
 * [代码之外的功夫程序员精进之路.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E4%BB%A3%E7%A0%81%E4%B9%8B%E5%A4%96%E7%9A%84%E5%8A%9F%E5%A4%AB%E7%A8%8B%E5%BA%8F%E5%91%98%E7%B2%BE%E8%BF%9B%E4%B9%8B%E8%B7%AF.mobi)
 * [代码的未来.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E4%BB%A3%E7%A0%81%E7%9A%84%E6%9C%AA%E6%9D%A5.mobi)
 * [关键对话如何高效能沟通原书第2版.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E5%85%B3%E9%94%AE%E5%AF%B9%E8%AF%9D%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E8%83%BD%E6%B2%9F%E9%80%9A%E5%8E%9F%E4%B9%A6%E7%AC%AC2%E7%89%88.mobi)
 * [华为传（2020）.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E5%8D%8E%E4%B8%BA%E4%BC%A0%EF%BC%882020%EF%BC%89.mobi)
-* [卓有成效的管理者.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E5%8D%93%E6%9C%89%E6%88%90%E6%95%88%E7%9A%84%E7%AE%A1%E7%90%86%E8%80%85.mobi)
 * [只是为了好玩.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E5%8F%AA%E6%98%AF%E4%B8%BA%E4%BA%86%E5%A5%BD%E7%8E%A9.mobi)
 * [哥德尔艾舍尔巴赫集异璧之大成.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E5%93%A5%E5%BE%B7%E5%B0%94%E8%89%BE%E8%88%8D%E5%B0%94%E5%B7%B4%E8%B5%AB%E9%9B%86%E5%BC%82%E7%92%A7%E4%B9%8B%E5%A4%A7%E6%88%90.mobi)
 * [图灵的秘密他的生平思想及论文解读.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E5%9B%BE%E7%81%B5%E7%9A%84%E7%A7%98%E5%AF%86%E4%BB%96%E7%9A%84%E7%94%9F%E5%B9%B3%E6%80%9D%E6%83%B3%E5%8F%8A%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB.mobi)
-* [奔跑吧程序员从零开始打造产品技术和团队.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E5%A5%94%E8%B7%91%E5%90%A7%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%89%93%E9%80%A0%E4%BA%A7%E5%93%81%E6%8A%80%E6%9C%AF%E5%92%8C%E5%9B%A2%E9%98%9F.mobi)
 * [尽在双11：阿里巴巴技术演进与超越.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E5%B0%BD%E5%9C%A8%E5%8F%8C11%EF%BC%9A%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%8A%80%E6%9C%AF%E6%BC%94%E8%BF%9B%E4%B8%8E%E8%B6%85%E8%B6%8A.mobi)
 * [微服务治理 体系、架构及实践.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%B2%BB%E7%90%86%20%E4%BD%93%E7%B3%BB%E3%80%81%E6%9E%B6%E6%9E%84%E5%8F%8A%E5%AE%9E%E8%B7%B5.mobi)
 * [微服务设计.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E5%BE%AE%E6%9C%8D%E5%8A%A1%E8%AE%BE%E8%AE%A1.mobi)
 * [技术人的百宝黑皮书(阿里巴巴2020技术年货).pdf](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%9A%84%E7%99%BE%E5%AE%9D%E9%BB%91%E7%9A%AE%E4%B9%A6(%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B42020%E6%8A%80%E6%9C%AF%E5%B9%B4%E8%B4%A7).pdf)
-* [敏捷软件开发原则模式与实践c版.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E6%95%8F%E6%8D%B7%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%8E%9F%E5%88%99%E6%A8%A1%E5%BC%8F%E4%B8%8E%E5%AE%9E%E8%B7%B5c%E7%89%88.mobi)
 * [有效需求分析.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E6%9C%89%E6%95%88%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90.mobi)
 * [李开复自传：世界因你不同.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E6%9D%8E%E5%BC%80%E5%A4%8D%E8%87%AA%E4%BC%A0%EF%BC%9A%E4%B8%96%E7%95%8C%E5%9B%A0%E4%BD%A0%E4%B8%8D%E5%90%8C.mobi)
 * [松本行弘的程序世界.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E6%9D%BE%E6%9C%AC%E8%A1%8C%E5%BC%98%E7%9A%84%E7%A8%8B%E5%BA%8F%E4%B8%96%E7%95%8C.mobi)
-* [构建之法现代软件工程.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E6%9E%84%E5%BB%BA%E4%B9%8B%E6%B3%95%E7%8E%B0%E4%BB%A3%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B.mobi)
 * [浪潮之巅.epub](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85.epub)    [浪潮之巅.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85.mobi)
 * [淘宝技术这十年.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E6%B7%98%E5%AE%9D%E6%8A%80%E6%9C%AF%E8%BF%99%E5%8D%81%E5%B9%B4.mobi)
 * [程序员的思维修炼开发认知潜能的九堂课.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%80%9D%E7%BB%B4%E4%BF%AE%E7%82%BC%E5%BC%80%E5%8F%91%E8%AE%A4%E7%9F%A5%E6%BD%9C%E8%83%BD%E7%9A%84%E4%B9%9D%E5%A0%82%E8%AF%BE.mobi)
 * [程序员的自我修养.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB.mobi)
-* [网易一千零一夜.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E7%BD%91%E6%98%93%E4%B8%80%E5%8D%83%E9%9B%B6%E4%B8%80%E5%A4%9C.mobi)
 * [艾伦·图灵传.epub](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E8%89%BE%E4%BC%A6%C2%B7%E5%9B%BE%E7%81%B5%E4%BC%A0.epub)    [艾伦·图灵传.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E8%89%BE%E4%BC%A6%C2%B7%E5%9B%BE%E7%81%B5%E4%BC%A0.mobi)
 * [若为自由故 自由软件之父理查德斯托曼传.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E8%8B%A5%E4%B8%BA%E8%87%AA%E7%94%B1%E6%95%85%20%E8%87%AA%E7%94%B1%E8%BD%AF%E4%BB%B6%E4%B9%8B%E7%88%B6%E7%90%86%E6%9F%A5%E5%BE%B7%E6%96%AF%E6%89%98%E6%9B%BC%E4%BC%A0.mobi)
 * [软件故事：谁发明了那些经典的编程语言.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E8%BD%AF%E4%BB%B6%E6%95%85%E4%BA%8B%EF%BC%9A%E8%B0%81%E5%8F%91%E6%98%8E%E4%BA%86%E9%82%A3%E4%BA%9B%E7%BB%8F%E5%85%B8%E7%9A%84%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80.mobi)
 * [软件项目估算.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E8%BD%AF%E4%BB%B6%E9%A1%B9%E7%9B%AE%E4%BC%B0%E7%AE%97.mobi)    [软件项目估算.pdf](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E8%BD%AF%E4%BB%B6%E9%A1%B9%E7%9B%AE%E4%BC%B0%E7%AE%97.pdf)
 * [软技能代码之外的生存指南.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E8%BD%AF%E6%8A%80%E8%83%BD%E4%BB%A3%E7%A0%81%E4%B9%8B%E5%A4%96%E7%9A%84%E7%94%9F%E5%AD%98%E6%8C%87%E5%8D%97.mobi)
+* [黑客与画家.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E9%BB%91%E5%AE%A2%E4%B8%8E%E7%94%BB%E5%AE%B6.mobi)
+
+### 项目管理
+* [大道至易：实践者的思想（第二版）.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E5%A4%A7%E9%81%93%E8%87%B3%E6%98%93%EF%BC%9A%E5%AE%9E%E8%B7%B5%E8%80%85%E7%9A%84%E6%80%9D%E6%83%B3%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.mobi)    [大道至易：实践者的思想（第二版）.epub](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E5%A4%A7%E9%81%93%E8%87%B3%E6%98%93%EF%BC%9A%E5%AE%9E%E8%B7%B5%E8%80%85%E7%9A%84%E6%80%9D%E6%83%B3%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.epub)
 * [重新定义团队谷歌如何工作.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E9%87%8D%E6%96%B0%E5%AE%9A%E4%B9%89%E5%9B%A2%E9%98%9F%E8%B0%B7%E6%AD%8C%E5%A6%82%E4%BD%95%E5%B7%A5%E4%BD%9C.mobi)
 * [项目管理修炼之道.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E4%BF%AE%E7%82%BC%E4%B9%8B%E9%81%93.mobi)
-* [黑客与画家.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E9%BB%91%E5%AE%A2%E4%B8%8E%E7%94%BB%E5%AE%B6.mobi)
+* [网易一千零一夜.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E7%BD%91%E6%98%93%E4%B8%80%E5%8D%83%E9%9B%B6%E4%B8%80%E5%A4%9C.mobi)
+* [构建之法现代软件工程.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E6%9E%84%E5%BB%BA%E4%B9%8B%E6%B3%95%E7%8E%B0%E4%BB%A3%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B.mobi)
+* [卓有成效的管理者.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E5%8D%93%E6%9C%89%E6%88%90%E6%95%88%E7%9A%84%E7%AE%A1%E7%90%86%E8%80%85.mobi)
+* [人月神话.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E4%BA%BA%E6%9C%88%E7%A5%9E%E8%AF%9D.mobi)
+* [敏捷软件开发原则模式与实践c版.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E6%95%8F%E6%8D%B7%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%8E%9F%E5%88%99%E6%A8%A1%E5%BC%8F%E4%B8%8E%E5%AE%9E%E8%B7%B5c%E7%89%88.mobi)
+* [奔跑吧程序员从零开始打造产品技术和团队.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E5%A5%94%E8%B7%91%E5%90%A7%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%89%93%E9%80%A0%E4%BA%A7%E5%93%81%E6%8A%80%E6%9C%AF%E5%92%8C%E5%9B%A2%E9%98%9F.mobi)
 
 ### 产品
 

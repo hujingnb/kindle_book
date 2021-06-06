@@ -74,6 +74,7 @@
 * [编程之美-微软技术面试心得.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E-%E5%BE%AE%E8%BD%AF%E6%8A%80%E6%9C%AF%E9%9D%A2%E8%AF%95%E5%BF%83%E5%BE%97.mobi)
 * [程序原本.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E7%A8%8B%E5%BA%8F%E5%8E%9F%E6%9C%AC.mobi)    [程序原本.epub](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E7%A8%8B%E5%BA%8F%E5%8E%9F%E6%9C%AC.epub)
 * [我的架构思想.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E6%88%91%E7%9A%84%E6%9E%B6%E6%9E%84%E6%80%9D%E6%83%B3.mobi)    [我的架构思想.epub](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E6%88%91%E7%9A%84%E6%9E%B6%E6%9E%84%E6%80%9D%E6%83%B3.epub)
+* [程序员必读之软件架构.epub](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E7%A8%8B%E5%BA%8F%E5%91%98%E5%BF%85%E8%AF%BB%E4%B9%8B%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84.epub)    [程序员必读之软件架构.azw3](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E7%A8%8B%E5%BA%8F%E5%91%98%E5%BF%85%E8%AF%BB%E4%B9%8B%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84.azw3)
 
 
 
@@ -272,3 +273,4 @@
 * [笑场 李诞.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E7%AC%91%E5%9C%BA%20%E6%9D%8E%E8%AF%9E.mobi)    [笑场 李诞.epub](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E7%AC%91%E5%9C%BA%20%E6%9D%8E%E8%AF%9E.epub)
 * [中国式场面话大全-杨百平.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E5%9C%BA%E9%9D%A2%E8%AF%9D%E5%A4%A7%E5%85%A8-%E6%9D%A8%E7%99%BE%E5%B9%B3.mobi)    [中国式场面话大全-杨百平.epub](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E5%9C%BA%E9%9D%A2%E8%AF%9D%E5%A4%A7%E5%85%A8-%E6%9D%A8%E7%99%BE%E5%B9%B3.epub)
 * [极客爱情.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E6%9E%81%E5%AE%A2%E7%88%B1%E6%83%85.mobi)
+* [如何阅读一本书.epub](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6.epub)    [如何阅读一本书.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6.mobi)

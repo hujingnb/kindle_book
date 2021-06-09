@@ -274,3 +274,29 @@
 * [中国式场面话大全-杨百平.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E5%9C%BA%E9%9D%A2%E8%AF%9D%E5%A4%A7%E5%85%A8-%E6%9D%A8%E7%99%BE%E5%B9%B3.mobi)    [中国式场面话大全-杨百平.epub](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E5%9C%BA%E9%9D%A2%E8%AF%9D%E5%A4%A7%E5%85%A8-%E6%9D%A8%E7%99%BE%E5%B9%B3.epub)
 * [极客爱情.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E6%9E%81%E5%AE%A2%E7%88%B1%E6%83%85.mobi)
 * [如何阅读一本书.epub](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6.epub)    [如何阅读一本书.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6.mobi)
+
+
+
+---
+
+## 格式转换
+
+对于`epub`格式的电子书, 使用`usb`传到**kindle**上是无法直接查看的, 如果遇到了, 可以下载亚马逊官方的一款软件进行格式转换. 
+
+下载地址: [https://www.amazon.com/gp/feature.html/?t=joyo01s-20&docId=1003018611&tag=joyo01s-20](https://www.amazon.com/gp/feature.html/?t=joyo01s-20&docId=1003018611&tag=joyo01s-20)
+
+**打开电子书**
+
+![image-20210609224709472](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/img/20210609224709.png)
+
+推动`epub`格式文件后, 稍作等待. 
+
+**导出电子书**
+
+![image-20210609225044255](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/img/20210609225044.png)
+
+转换成功后即可导出. 
+
+![image-20210609225149434](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/img/20210609225149.png)
+
+如图是它支持导出的文件格式. 

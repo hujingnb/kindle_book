@@ -281,6 +281,8 @@
 
 ## 格式转换
 
+### 转官方格式
+
 对于`epub`格式的电子书, 使用`usb`传到**kindle**上是无法直接查看的, 如果遇到了, 可以下载亚马逊官方的一款软件进行格式转换. 
 
 下载地址: [https://www.amazon.com/gp/feature.html/?t=joyo01s-20&docId=1003018611&tag=joyo01s-20](https://www.amazon.com/gp/feature.html/?t=joyo01s-20&docId=1003018611&tag=joyo01s-20)
@@ -300,3 +302,10 @@
 ![image-20210609225149434](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/img/20210609225149.png)
 
 如图是它支持导出的文件格式. 
+
+### 转 azw3
+
+有时, 通过官方工具转成`mobi`之后, 格式就乱了. 这时可以转成`azw3`格式查看, kindle 也是支持的. 这就简单多了, 很多在线工具网站都支持. 
+
+比如: [https://epub2kindle.com/zh/](https://epub2kindle.com/zh/)
+

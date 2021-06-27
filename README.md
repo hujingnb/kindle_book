@@ -11,6 +11,7 @@
 * [黑客心理学社会工程学原理.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E9%BB%91%E5%AE%A2%E5%BF%83%E7%90%86%E5%AD%A6%E7%A4%BE%E4%BC%9A%E5%B7%A5%E7%A8%8B%E5%AD%A6%E5%8E%9F%E7%90%86.mobi)
 * [黑客攻防技术宝典:Web实战篇(第2版).mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E9%BB%91%E5%AE%A2%E6%94%BB%E9%98%B2%E6%8A%80%E6%9C%AF%E5%AE%9D%E5%85%B8%3AWeb%E5%AE%9E%E6%88%98%E7%AF%87(%E7%AC%AC2%E7%89%88).mobi)
 * [黑客攻防技术宝典：浏览器实战篇.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E9%BB%91%E5%AE%A2%E6%94%BB%E9%98%B2%E6%8A%80%E6%9C%AF%E5%AE%9D%E5%85%B8%EF%BC%9A%E6%B5%8F%E8%A7%88%E5%99%A8%E5%AE%9E%E6%88%98%E7%AF%87.mobi)
+* [欺骗的艺术.epub](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E6%AC%BA%E9%AA%97%E7%9A%84%E8%89%BA%E6%9C%AF.epub)    [欺骗的艺术.azw3](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E6%AC%BA%E9%AA%97%E7%9A%84%E8%89%BA%E6%9C%AF.azw3)
 
 ## 编程语言
 
@@ -75,6 +76,7 @@
 * [程序原本.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E7%A8%8B%E5%BA%8F%E5%8E%9F%E6%9C%AC.mobi)    [程序原本.epub](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E7%A8%8B%E5%BA%8F%E5%8E%9F%E6%9C%AC.epub)
 * [我的架构思想.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E6%88%91%E7%9A%84%E6%9E%B6%E6%9E%84%E6%80%9D%E6%83%B3.mobi)    [我的架构思想.epub](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E6%88%91%E7%9A%84%E6%9E%B6%E6%9E%84%E6%80%9D%E6%83%B3.epub)
 * [程序员必读之软件架构.epub](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E7%A8%8B%E5%BA%8F%E5%91%98%E5%BF%85%E8%AF%BB%E4%B9%8B%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84.epub)    [程序员必读之软件架构.azw3](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E7%A8%8B%E5%BA%8F%E5%91%98%E5%BF%85%E8%AF%BB%E4%B9%8B%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84.azw3)
+* [架构师之路（58沈剑）.epub](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E6%9E%B6%E6%9E%84%E5%B8%88%E4%B9%8B%E8%B7%AF%EF%BC%8858%E6%B2%88%E5%89%91%EF%BC%89.epub)    [架构师之路（58沈剑）.azw3](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E6%9E%B6%E6%9E%84%E5%B8%88%E4%B9%8B%E8%B7%AF%EF%BC%8858%E6%B2%88%E5%89%91%EF%BC%89.azw3)
 
 
 
@@ -274,6 +276,7 @@
 * [中国式场面话大全-杨百平.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E5%9C%BA%E9%9D%A2%E8%AF%9D%E5%A4%A7%E5%85%A8-%E6%9D%A8%E7%99%BE%E5%B9%B3.mobi)    [中国式场面话大全-杨百平.epub](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E5%9C%BA%E9%9D%A2%E8%AF%9D%E5%A4%A7%E5%85%A8-%E6%9D%A8%E7%99%BE%E5%B9%B3.epub)
 * [极客爱情.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E6%9E%81%E5%AE%A2%E7%88%B1%E6%83%85.mobi)
 * [如何阅读一本书.epub](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6.epub)    [如何阅读一本书.mobi](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6.mobi)
+* [程序江湖.epub](https://hujingnb-blog.oss-cn-beijing.aliyuncs.com/book/%E7%A8%8B%E5%BA%8F%E6%B1%9F%E6%B9%96.epub)    
 
 
 

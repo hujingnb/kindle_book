@@ -1,6 +1,6 @@
 存放一些`kindle`的图书
 
-有一些是免费搜集的, 有些是购买的. 希望能帮到你. 以下书名为超链接, 点击可直接下载. 
+有一些是免费搜集的, 有些是购买的. 希望能帮到你. 以下书名为超链接, 点击可直接下载.
 
 [TOC]
 
@@ -245,6 +245,8 @@
 * [别闹了费曼先生.mobi](https://oss-blog.cdn.hujingnb.com/book/%E5%88%AB%E9%97%B9%E4%BA%86%E8%B4%B9%E6%9B%BC%E5%85%88%E7%94%9F.mobi)
 * [过得刚好郭德纲亲笔作品讲述人生四十多年的江湖过往.mobi](https://oss-blog.cdn.hujingnb.com/book/%E8%BF%87%E5%BE%97%E5%88%9A%E5%A5%BD%E9%83%AD%E5%BE%B7%E7%BA%B2%E4%BA%B2%E7%AC%94%E4%BD%9C%E5%93%81%E8%AE%B2%E8%BF%B0%E4%BA%BA%E7%94%9F%E5%9B%9B%E5%8D%81%E5%A4%9A%E5%B9%B4%E7%9A%84%E6%B1%9F%E6%B9%96%E8%BF%87%E5%BE%80.mobi)
 * [超脑（套装共2册）.mobi](https://oss-blog.cdn.hujingnb.com/book/%E8%B6%85%E8%84%91%EF%BC%88%E5%A5%97%E8%A3%85%E5%85%B12%E5%86%8C%EF%BC%89.mobi)   [超脑（套装共2册）.epub](https://oss-blog.cdn.hujingnb.com/book/%E8%B6%85%E8%84%91%EF%BC%88%E5%A5%97%E8%A3%85%E5%85%B12%E5%86%8C%EF%BC%89.epub)   [超脑（套装共2册）.azw3](https://oss-blog.cdn.hujingnb.com/book/%E8%B6%85%E8%84%91%EF%BC%88%E5%A5%97%E8%A3%85%E5%85%B12%E5%86%8C%EF%BC%89.azw3)
+* [人性中的善良天使.mobi](https://oss-blog.cdn.hujingnb.com/book/%E4%BA%BA%E6%80%A7%E4%B8%AD%E7%9A%84%E5%96%84%E8%89%AF%E5%A4%A9%E4%BD%BF.mobi)
+* [当呼吸化为空气.mobi](https://oss-blog.cdn.hujingnb.com/book/%E5%BD%93%E5%91%BC%E5%90%B8%E5%8C%96%E4%B8%BA%E7%A9%BA%E6%B0%94.mobi)   [当呼吸化为空气.epub](https://oss-blog.cdn.hujingnb.com/book/%E5%BD%93%E5%91%BC%E5%90%B8%E5%8C%96%E4%B8%BA%E7%A9%BA%E6%B0%94.epub)   [当呼吸化为空气.azw3](https://oss-blog.cdn.hujingnb.com/book/%E5%BD%93%E5%91%BC%E5%90%B8%E5%8C%96%E4%B8%BA%E7%A9%BA%E6%B0%94.azw3)
 
 ## 创业
 
@@ -314,6 +316,7 @@
 * [大脑整理术.mobi](https://oss-blog.cdn.hujingnb.com/book/%E5%A4%A7%E8%84%91%E6%95%B4%E7%90%86%E6%9C%AF.mobi)   [大脑整理术.epub](https://oss-blog.cdn.hujingnb.com/book/%E5%A4%A7%E8%84%91%E6%95%B4%E7%90%86%E6%9C%AF.epub)   [大脑整理术.azw3](https://oss-blog.cdn.hujingnb.com/book/%E5%A4%A7%E8%84%91%E6%95%B4%E7%90%86%E6%9C%AF.azw3)
 
 * [超效率手册-99个史上更全面的时间管理技巧.mobi](https://oss-blog.cdn.hujingnb.com/book/%E8%B6%85%E6%95%88%E7%8E%87%E6%89%8B%E5%86%8C-99%E4%B8%AA%E5%8F%B2%E4%B8%8A%E6%9B%B4%E5%85%A8%E9%9D%A2%E7%9A%84%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86%E6%8A%80%E5%B7%A7.mobi)
+* [我们为什么要睡觉.mobi](https://oss-blog.cdn.hujingnb.com/book/%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%9D%A1%E8%A7%89.mobi)    [我们为什么要睡觉.epub](https://oss-blog.cdn.hujingnb.com/book/%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%9D%A1%E8%A7%89.epub)    [我们为什么要睡觉.azw3](https://oss-blog.cdn.hujingnb.com/book/%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%9D%A1%E8%A7%89.azw3)    [我们为什么要睡觉.pdf](https://oss-blog.cdn.hujingnb.com/book/%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%9D%A1%E8%A7%89.pdf)
 
   
 
@@ -348,4 +351,5 @@
 有时, 通过官方工具转成`mobi`之后, 格式就乱了. 这时可以转成`azw3`格式查看, kindle 也是支持的. 这就简单多了, 很多在线工具网站都支持. 
 
 比如: [https://epub2kindle.com/zh/](https://epub2kindle.com/zh/)
+
 

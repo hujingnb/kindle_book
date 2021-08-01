@@ -247,6 +247,8 @@
 * [超脑（套装共2册）.mobi](https://oss-blog.cdn.hujingnb.com/book/%E8%B6%85%E8%84%91%EF%BC%88%E5%A5%97%E8%A3%85%E5%85%B12%E5%86%8C%EF%BC%89.mobi)   [超脑（套装共2册）.epub](https://oss-blog.cdn.hujingnb.com/book/%E8%B6%85%E8%84%91%EF%BC%88%E5%A5%97%E8%A3%85%E5%85%B12%E5%86%8C%EF%BC%89.epub)   [超脑（套装共2册）.azw3](https://oss-blog.cdn.hujingnb.com/book/%E8%B6%85%E8%84%91%EF%BC%88%E5%A5%97%E8%A3%85%E5%85%B12%E5%86%8C%EF%BC%89.azw3)
 * [人性中的善良天使.mobi](https://oss-blog.cdn.hujingnb.com/book/%E4%BA%BA%E6%80%A7%E4%B8%AD%E7%9A%84%E5%96%84%E8%89%AF%E5%A4%A9%E4%BD%BF.mobi)
 * [当呼吸化为空气.mobi](https://oss-blog.cdn.hujingnb.com/book/%E5%BD%93%E5%91%BC%E5%90%B8%E5%8C%96%E4%B8%BA%E7%A9%BA%E6%B0%94.mobi)   [当呼吸化为空气.epub](https://oss-blog.cdn.hujingnb.com/book/%E5%BD%93%E5%91%BC%E5%90%B8%E5%8C%96%E4%B8%BA%E7%A9%BA%E6%B0%94.epub)   [当呼吸化为空气.azw3](https://oss-blog.cdn.hujingnb.com/book/%E5%BD%93%E5%91%BC%E5%90%B8%E5%8C%96%E4%B8%BA%E7%A9%BA%E6%B0%94.azw3)
+* [当下的启蒙：为理性、科学、人文主义和进步辩护.epub](https://oss-blog.cdn.hujingnb.com/book/%E5%BD%93%E4%B8%8B%E7%9A%84%E5%90%AF%E8%92%99%EF%BC%9A%E4%B8%BA%E7%90%86%E6%80%A7%E3%80%81%E7%A7%91%E5%AD%A6%E3%80%81%E4%BA%BA%E6%96%87%E4%B8%BB%E4%B9%89%E5%92%8C%E8%BF%9B%E6%AD%A5%E8%BE%A9%E6%8A%A4.epub)   [当下的启蒙：为理性、科学、人文主义和进步辩护.azw3](https://oss-blog.cdn.hujingnb.com/book/%E5%BD%93%E4%B8%8B%E7%9A%84%E5%90%AF%E8%92%99%EF%BC%9A%E4%B8%BA%E7%90%86%E6%80%A7%E3%80%81%E7%A7%91%E5%AD%A6%E3%80%81%E4%BA%BA%E6%96%87%E4%B8%BB%E4%B9%89%E5%92%8C%E8%BF%9B%E6%AD%A5%E8%BE%A9%E6%8A%A4.azw3)   [当下的启蒙：为理性、科学、人文主义和进步辩护.mobi](https://oss-blog.cdn.hujingnb.com/book/%E5%BD%93%E4%B8%8B%E7%9A%84%E5%90%AF%E8%92%99%EF%BC%9A%E4%B8%BA%E7%90%86%E6%80%A7%E3%80%81%E7%A7%91%E5%AD%A6%E3%80%81%E4%BA%BA%E6%96%87%E4%B8%BB%E4%B9%89%E5%92%8C%E8%BF%9B%E6%AD%A5%E8%BE%A9%E6%8A%A4.mobi)   [当下的启蒙：为理性、科学、人文主义和进步辩护.pdf](https://oss-blog.cdn.hujingnb.com/book/%E5%BD%93%E4%B8%8B%E7%9A%84%E5%90%AF%E8%92%99%EF%BC%9A%E4%B8%BA%E7%90%86%E6%80%A7%E3%80%81%E7%A7%91%E5%AD%A6%E3%80%81%E4%BA%BA%E6%96%87%E4%B8%BB%E4%B9%89%E5%92%8C%E8%BF%9B%E6%AD%A5%E8%BE%A9%E6%8A%A4.pdf)
+* [起源：万物大历史.mobi](https://oss-blog.cdn.hujingnb.com/book/%E8%B5%B7%E6%BA%90%EF%BC%9A%E4%B8%87%E7%89%A9%E5%A4%A7%E5%8E%86%E5%8F%B2.mobi)   [起源：万物大历史.azw3](https://oss-blog.cdn.hujingnb.com/book/%E8%B5%B7%E6%BA%90%EF%BC%9A%E4%B8%87%E7%89%A9%E5%A4%A7%E5%8E%86%E5%8F%B2.azw3)   [起源：万物大历史.epub](https://oss-blog.cdn.hujingnb.com/book/%E8%B5%B7%E6%BA%90%EF%BC%9A%E4%B8%87%E7%89%A9%E5%A4%A7%E5%8E%86%E5%8F%B2.epub)
 
 ## 创业
 
@@ -262,6 +264,7 @@
 * [精益创业实战第2版.mobi](https://oss-blog.cdn.hujingnb.com/book/%E7%B2%BE%E7%9B%8A%E5%88%9B%E4%B8%9A%E5%AE%9E%E6%88%98%E7%AC%AC2%E7%89%88.mobi)
 * [别想那只大象-乔治莱考夫.mobi](https://oss-blog.cdn.hujingnb.com/book/%E5%88%AB%E6%83%B3%E9%82%A3%E5%8F%AA%E5%A4%A7%E8%B1%A1-%E4%B9%94%E6%B2%BB%E8%8E%B1%E8%80%83%E5%A4%AB.mobi)  [别想那只大象-乔治莱考夫.azw3](https://oss-blog.cdn.hujingnb.com/book/%E5%88%AB%E6%83%B3%E9%82%A3%E5%8F%AA%E5%A4%A7%E8%B1%A1-%E4%B9%94%E6%B2%BB%E8%8E%B1%E8%80%83%E5%A4%AB.azw3)
 * [创业无畏：指数级成长路线图.mobi](https://oss-blog.cdn.hujingnb.com/book/%E5%88%9B%E4%B8%9A%E6%97%A0%E7%95%8F%EF%BC%9A%E6%8C%87%E6%95%B0%E7%BA%A7%E6%88%90%E9%95%BF%E8%B7%AF%E7%BA%BF%E5%9B%BE.mobi)   [创业无畏：指数级成长路线图.azw3](https://oss-blog.cdn.hujingnb.com/book/%E5%88%9B%E4%B8%9A%E6%97%A0%E7%95%8F%EF%BC%9A%E6%8C%87%E6%95%B0%E7%BA%A7%E6%88%90%E9%95%BF%E8%B7%AF%E7%BA%BF%E5%9B%BE.azw3)
+* [一生的旅程：迪士尼CEO自述批量打造超级IP的经营哲学.mobi](https://oss-blog.cdn.hujingnb.com/book/%E4%B8%80%E7%94%9F%E7%9A%84%E6%97%85%E7%A8%8B%EF%BC%9A%E8%BF%AA%E5%A3%AB%E5%B0%BCCEO%E8%87%AA%E8%BF%B0%E6%89%B9%E9%87%8F%E6%89%93%E9%80%A0%E8%B6%85%E7%BA%A7IP%E7%9A%84%E7%BB%8F%E8%90%A5%E5%93%B2%E5%AD%A6.mobi)   [一生的旅程：迪士尼CEO自述批量打造超级IP的经营哲学.azw3](https://oss-blog.cdn.hujingnb.com/book/%E4%B8%80%E7%94%9F%E7%9A%84%E6%97%85%E7%A8%8B%EF%BC%9A%E8%BF%AA%E5%A3%AB%E5%B0%BCCEO%E8%87%AA%E8%BF%B0%E6%89%B9%E9%87%8F%E6%89%93%E9%80%A0%E8%B6%85%E7%BA%A7IP%E7%9A%84%E7%BB%8F%E8%90%A5%E5%93%B2%E5%AD%A6.azw3)   [一生的旅程：迪士尼CEO自述批量打造超级IP的经营哲学.epub](https://oss-blog.cdn.hujingnb.com/book/%E4%B8%80%E7%94%9F%E7%9A%84%E6%97%85%E7%A8%8B%EF%BC%9A%E8%BF%AA%E5%A3%AB%E5%B0%BCCEO%E8%87%AA%E8%BF%B0%E6%89%B9%E9%87%8F%E6%89%93%E9%80%A0%E8%B6%85%E7%BA%A7IP%E7%9A%84%E7%BB%8F%E8%90%A5%E5%93%B2%E5%AD%A6.epub)   [一生的旅程：迪士尼CEO自述批量打造超级IP的经营哲学.pdf](https://oss-blog.cdn.hujingnb.com/book/%E4%B8%80%E7%94%9F%E7%9A%84%E6%97%85%E7%A8%8B%EF%BC%9A%E8%BF%AA%E5%A3%AB%E5%B0%BCCEO%E8%87%AA%E8%BF%B0%E6%89%B9%E9%87%8F%E6%89%93%E9%80%A0%E8%B6%85%E7%BA%A7IP%E7%9A%84%E7%BB%8F%E8%90%A5%E5%93%B2%E5%AD%A6.pdf)
 
 ## 其他
 
@@ -317,6 +320,7 @@
 
 * [超效率手册-99个史上更全面的时间管理技巧.mobi](https://oss-blog.cdn.hujingnb.com/book/%E8%B6%85%E6%95%88%E7%8E%87%E6%89%8B%E5%86%8C-99%E4%B8%AA%E5%8F%B2%E4%B8%8A%E6%9B%B4%E5%85%A8%E9%9D%A2%E7%9A%84%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86%E6%8A%80%E5%B7%A7.mobi)
 * [我们为什么要睡觉.mobi](https://oss-blog.cdn.hujingnb.com/book/%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%9D%A1%E8%A7%89.mobi)    [我们为什么要睡觉.epub](https://oss-blog.cdn.hujingnb.com/book/%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%9D%A1%E8%A7%89.epub)    [我们为什么要睡觉.azw3](https://oss-blog.cdn.hujingnb.com/book/%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%9D%A1%E8%A7%89.azw3)    [我们为什么要睡觉.pdf](https://oss-blog.cdn.hujingnb.com/book/%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%9D%A1%E8%A7%89.pdf)
+* [真相：十个理由告诉你我们错看了世界.mobi](https://oss-blog.cdn.hujingnb.com/book/%E7%9C%9F%E7%9B%B8%EF%BC%9A%E5%8D%81%E4%B8%AA%E7%90%86%E7%94%B1%E5%91%8A%E8%AF%89%E4%BD%A0%E6%88%91%E4%BB%AC%E9%94%99%E7%9C%8B%E4%BA%86%E4%B8%96%E7%95%8C.mobi)   [真相：十个理由告诉你我们错看了世界.epub](https://oss-blog.cdn.hujingnb.com/book/%E7%9C%9F%E7%9B%B8%EF%BC%9A%E5%8D%81%E4%B8%AA%E7%90%86%E7%94%B1%E5%91%8A%E8%AF%89%E4%BD%A0%E6%88%91%E4%BB%AC%E9%94%99%E7%9C%8B%E4%BA%86%E4%B8%96%E7%95%8C.epub)
 
   
 
@@ -351,5 +355,4 @@
 有时, 通过官方工具转成`mobi`之后, 格式就乱了. 这时可以转成`azw3`格式查看, kindle 也是支持的. 这就简单多了, 很多在线工具网站都支持. 
 
 比如: [https://epub2kindle.com/zh/](https://epub2kindle.com/zh/)
-
 

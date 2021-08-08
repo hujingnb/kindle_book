@@ -77,6 +77,7 @@
 * [我的架构思想.mobi](https://oss-blog.cdn.hujingnb.com/book/%E6%88%91%E7%9A%84%E6%9E%B6%E6%9E%84%E6%80%9D%E6%83%B3.mobi)    [我的架构思想.epub](https://oss-blog.cdn.hujingnb.com/book/%E6%88%91%E7%9A%84%E6%9E%B6%E6%9E%84%E6%80%9D%E6%83%B3.epub)
 * [程序员必读之软件架构.epub](https://oss-blog.cdn.hujingnb.com/book/%E7%A8%8B%E5%BA%8F%E5%91%98%E5%BF%85%E8%AF%BB%E4%B9%8B%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84.epub)    [程序员必读之软件架构.azw3](https://oss-blog.cdn.hujingnb.com/book/%E7%A8%8B%E5%BA%8F%E5%91%98%E5%BF%85%E8%AF%BB%E4%B9%8B%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84.azw3)
 * [架构师之路（58沈剑）.epub](https://oss-blog.cdn.hujingnb.com/book/%E6%9E%B6%E6%9E%84%E5%B8%88%E4%B9%8B%E8%B7%AF%EF%BC%8858%E6%B2%88%E5%89%91%EF%BC%89.epub)    [架构师之路（58沈剑）.azw3](https://oss-blog.cdn.hujingnb.com/book/%E6%9E%B6%E6%9E%84%E5%B8%88%E4%B9%8B%E8%B7%AF%EF%BC%8858%E6%B2%88%E5%89%91%EF%BC%89.azw3)
+* [鸟哥的Linux私房菜——基础学习篇（第四版）.mobi](https://oss-blog.cdn.hujingnb.com/book/%E9%B8%9F%E5%93%A5%E7%9A%84Linux%E7%A7%81%E6%88%BF%E8%8F%9C%E2%80%94%E2%80%94%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0%E7%AF%87%EF%BC%88%E7%AC%AC%E5%9B%9B%E7%89%88%EF%BC%89.mobi)    [鸟哥的Linux私房菜——基础学习篇（第四版）.epub](https://oss-blog.cdn.hujingnb.com/book/%E9%B8%9F%E5%93%A5%E7%9A%84Linux%E7%A7%81%E6%88%BF%E8%8F%9C%E2%80%94%E2%80%94%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0%E7%AF%87%EF%BC%88%E7%AC%AC%E5%9B%9B%E7%89%88%EF%BC%89.epub)    [鸟哥的Linux私房菜——基础学习篇（第四版）.azw3](https://oss-blog.cdn.hujingnb.com/book/%E9%B8%9F%E5%93%A5%E7%9A%84Linux%E7%A7%81%E6%88%BF%E8%8F%9C%E2%80%94%E2%80%94%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0%E7%AF%87%EF%BC%88%E7%AC%AC%E5%9B%9B%E7%89%88%EF%BC%89.azw3)
 
 
 
@@ -228,6 +229,7 @@
 * [随机漫步的傻瓜.mobi](https://oss-blog.cdn.hujingnb.com/book/%E9%9A%8F%E6%9C%BA%E6%BC%AB%E6%AD%A5%E7%9A%84%E5%82%BB%E7%93%9C.mobi)
 * [费马大定理：一个困惑了世间智者358年的谜.mobi](https://oss-blog.cdn.hujingnb.com/book/%E8%B4%B9%E9%A9%AC%E5%A4%A7%E5%AE%9A%E7%90%86%EF%BC%9A%E4%B8%80%E4%B8%AA%E5%9B%B0%E6%83%91%E4%BA%86%E4%B8%96%E9%97%B4%E6%99%BA%E8%80%85358%E5%B9%B4%E7%9A%84%E8%B0%9C.mobi)
 * [具体数学：计算机科学基础（第2版）.mobi](https://oss-blog.cdn.hujingnb.com/book/%E5%85%B7%E4%BD%93%E6%95%B0%E5%AD%A6%EF%BC%9A%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.mobi)
+* [数学也荒唐：20个脑洞大开的数学趣题.mobi](https://oss-blog.cdn.hujingnb.com/book/%E6%95%B0%E5%AD%A6%E4%B9%9F%E8%8D%92%E5%94%90%EF%BC%9A20%E4%B8%AA%E8%84%91%E6%B4%9E%E5%A4%A7%E5%BC%80%E7%9A%84%E6%95%B0%E5%AD%A6%E8%B6%A3%E9%A2%98.mobi)    [数学也荒唐：20个脑洞大开的数学趣题.epub](https://oss-blog.cdn.hujingnb.com/book/%E6%95%B0%E5%AD%A6%E4%B9%9F%E8%8D%92%E5%94%90%EF%BC%9A20%E4%B8%AA%E8%84%91%E6%B4%9E%E5%A4%A7%E5%BC%80%E7%9A%84%E6%95%B0%E5%AD%A6%E8%B6%A3%E9%A2%98.epub)    [数学也荒唐：20个脑洞大开的数学趣题.azw3](https://oss-blog.cdn.hujingnb.com/book/%E6%95%B0%E5%AD%A6%E4%B9%9F%E8%8D%92%E5%94%90%EF%BC%9A20%E4%B8%AA%E8%84%91%E6%B4%9E%E5%A4%A7%E5%BC%80%E7%9A%84%E6%95%B0%E5%AD%A6%E8%B6%A3%E9%A2%98.azw3)
 
 ## 读物
 
@@ -319,8 +321,12 @@
 * [大脑整理术.mobi](https://oss-blog.cdn.hujingnb.com/book/%E5%A4%A7%E8%84%91%E6%95%B4%E7%90%86%E6%9C%AF.mobi)   [大脑整理术.epub](https://oss-blog.cdn.hujingnb.com/book/%E5%A4%A7%E8%84%91%E6%95%B4%E7%90%86%E6%9C%AF.epub)   [大脑整理术.azw3](https://oss-blog.cdn.hujingnb.com/book/%E5%A4%A7%E8%84%91%E6%95%B4%E7%90%86%E6%9C%AF.azw3)
 
 * [超效率手册-99个史上更全面的时间管理技巧.mobi](https://oss-blog.cdn.hujingnb.com/book/%E8%B6%85%E6%95%88%E7%8E%87%E6%89%8B%E5%86%8C-99%E4%B8%AA%E5%8F%B2%E4%B8%8A%E6%9B%B4%E5%85%A8%E9%9D%A2%E7%9A%84%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86%E6%8A%80%E5%B7%A7.mobi)
+
 * [我们为什么要睡觉.mobi](https://oss-blog.cdn.hujingnb.com/book/%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%9D%A1%E8%A7%89.mobi)    [我们为什么要睡觉.epub](https://oss-blog.cdn.hujingnb.com/book/%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%9D%A1%E8%A7%89.epub)    [我们为什么要睡觉.azw3](https://oss-blog.cdn.hujingnb.com/book/%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%9D%A1%E8%A7%89.azw3)    [我们为什么要睡觉.pdf](https://oss-blog.cdn.hujingnb.com/book/%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%9D%A1%E8%A7%89.pdf)
+
 * [真相：十个理由告诉你我们错看了世界.mobi](https://oss-blog.cdn.hujingnb.com/book/%E7%9C%9F%E7%9B%B8%EF%BC%9A%E5%8D%81%E4%B8%AA%E7%90%86%E7%94%B1%E5%91%8A%E8%AF%89%E4%BD%A0%E6%88%91%E4%BB%AC%E9%94%99%E7%9C%8B%E4%BA%86%E4%B8%96%E7%95%8C.mobi)   [真相：十个理由告诉你我们错看了世界.epub](https://oss-blog.cdn.hujingnb.com/book/%E7%9C%9F%E7%9B%B8%EF%BC%9A%E5%8D%81%E4%B8%AA%E7%90%86%E7%94%B1%E5%91%8A%E8%AF%89%E4%BD%A0%E6%88%91%E4%BB%AC%E9%94%99%E7%9C%8B%E4%BA%86%E4%B8%96%E7%95%8C.epub)
+
+* [麦肯锡方法.mobi](https://oss-blog.cdn.hujingnb.com/book/%E9%BA%A6%E8%82%AF%E9%94%A1%E6%96%B9%E6%B3%95.mobi)
 
   
 

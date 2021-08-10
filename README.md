@@ -14,6 +14,8 @@
 * 黑客攻防技术宝典：浏览器实战篇 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E9%BB%91%E5%AE%A2%E6%94%BB%E9%98%B2%E6%8A%80%E6%9C%AF%E5%AE%9D%E5%85%B8%EF%BC%9A%E6%B5%8F%E8%A7%88%E5%99%A8%E5%AE%9E%E6%88%98%E7%AF%87.mobi)
 * 欺骗的艺术 [epub](https://oss-blog.cdn.hujingnb.com/book/%E6%AC%BA%E9%AA%97%E7%9A%84%E8%89%BA%E6%9C%AF.epub)    [azw3](https://oss-blog.cdn.hujingnb.com/book/%E6%AC%BA%E9%AA%97%E7%9A%84%E8%89%BA%E6%9C%AF.azw3)
 * 黑客大曝\_恶意软件和Rootkit安全 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E9%BB%91%E5%AE%A2%E5%A4%A7%E6%9B%9D%E5%85%89_%E6%81%B6%E6%84%8F%E8%BD%AF%E4%BB%B6%E5%92%8CRootkit%E5%AE%89%E5%85%A8.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E9%BB%91%E5%AE%A2%E5%A4%A7%E6%9B%9D%E5%85%89_%E6%81%B6%E6%84%8F%E8%BD%AF%E4%BB%B6%E5%92%8CRootkit%E5%AE%89%E5%85%A8.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E9%BB%91%E5%AE%A2%E5%A4%A7%E6%9B%9D%E5%85%89_%E6%81%B6%E6%84%8F%E8%BD%AF%E4%BB%B6%E5%92%8CRootkit%E5%AE%89%E5%85%A8.azw3)
+* 我知道你是谁，我知道你做过什么：隐私在社交网络时代的死亡 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E6%88%91%E7%9F%A5%E9%81%93%E4%BD%A0%E6%98%AF%E8%B0%81%EF%BC%8C%E6%88%91%E7%9F%A5%E9%81%93%E4%BD%A0%E5%81%9A%E8%BF%87%E4%BB%80%E4%B9%88%EF%BC%9A%E9%9A%90%E7%A7%81%E5%9C%A8%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%BB%9C%E6%97%B6%E4%BB%A3%E7%9A%84%E6%AD%BB%E4%BA%A1.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E6%88%91%E7%9F%A5%E9%81%93%E4%BD%A0%E6%98%AF%E8%B0%81%EF%BC%8C%E6%88%91%E7%9F%A5%E9%81%93%E4%BD%A0%E5%81%9A%E8%BF%87%E4%BB%80%E4%B9%88%EF%BC%9A%E9%9A%90%E7%A7%81%E5%9C%A8%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%BB%9C%E6%97%B6%E4%BB%A3%E7%9A%84%E6%AD%BB%E4%BA%A1.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E6%88%91%E7%9F%A5%E9%81%93%E4%BD%A0%E6%98%AF%E8%B0%81%EF%BC%8C%E6%88%91%E7%9F%A5%E9%81%93%E4%BD%A0%E5%81%9A%E8%BF%87%E4%BB%80%E4%B9%88%EF%BC%9A%E9%9A%90%E7%A7%81%E5%9C%A8%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%BB%9C%E6%97%B6%E4%BB%A3%E7%9A%84%E6%AD%BB%E4%BA%A1.azw3)
+* 捍卫隐私 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E6%8D%8D%E5%8D%AB%E9%9A%90%E7%A7%81.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E6%8D%8D%E5%8D%AB%E9%9A%90%E7%A7%81.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E6%8D%8D%E5%8D%AB%E9%9A%90%E7%A7%81.azw3)
 
 ## 编程语言
 
@@ -32,6 +34,7 @@
 
 * php7内核剖析 [mobi](https://oss-blog.cdn.hujingnb.com/book/php7%E5%86%85%E6%A0%B8%E5%89%96%E6%9E%90.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/php7%E5%86%85%E6%A0%B8%E5%89%96%E6%9E%90.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/php7%E5%86%85%E6%A0%B8%E5%89%96%E6%9E%90.azw3)
 * 细说PHP(第2版) [mobi](https://oss-blog.cdn.hujingnb.com/book/%E7%BB%86%E8%AF%B4PHP(%E7%AC%AC2%E7%89%88).mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E7%BB%86%E8%AF%B4PHP(%E7%AC%AC2%E7%89%88).epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E7%BB%86%E8%AF%B4PHP(%E7%AC%AC2%E7%89%88).azw3)
+* Laravel框架关键技术解析 [mobi](https://oss-blog.cdn.hujingnb.com/book/Laravel%E6%A1%86%E6%9E%B6%E5%85%B3%E9%94%AE%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/Laravel%E6%A1%86%E6%9E%B6%E5%85%B3%E9%94%AE%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/Laravel%E6%A1%86%E6%9E%B6%E5%85%B3%E9%94%AE%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90.azw3)
 
 ## 工具
 
@@ -76,6 +79,7 @@
 * 阿里巴巴B2B电商算法实践 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4B2B%E7%94%B5%E5%95%86%E7%AE%97%E6%B3%95%E5%AE%9E%E8%B7%B5.mobi)    [pdf](https://oss-blog.cdn.hujingnb.com/book/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4B2B%E7%94%B5%E5%95%86%E7%AE%97%E6%B3%95%E5%AE%9E%E8%B7%B5.pdf)
 * 算法的陷阱 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E7%AE%97%E6%B3%95%E7%9A%84%E9%99%B7%E9%98%B1.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E7%AE%97%E6%B3%95%E7%9A%84%E9%99%B7%E9%98%B1.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E7%AE%97%E6%B3%95%E7%9A%84%E9%99%B7%E9%98%B1.azw3)
 * 算法（第4版） [mobi](https://oss-blog.cdn.hujingnb.com/book/%E7%AE%97%E6%B3%95%EF%BC%88%E7%AC%AC4%E7%89%88%EF%BC%89.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E7%AE%97%E6%B3%95%EF%BC%88%E7%AC%AC4%E7%89%88%EF%BC%89.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E7%AE%97%E6%B3%95%EF%BC%88%E7%AC%AC4%E7%89%88%EF%BC%89.azw3)
+* 算法的乐趣 (图灵原创) [mobi](https://oss-blog.cdn.hujingnb.com/book/%E7%AE%97%E6%B3%95%E7%9A%84%E4%B9%90%E8%B6%A3%20(%E5%9B%BE%E7%81%B5%E5%8E%9F%E5%88%9B).mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E7%AE%97%E6%B3%95%E7%9A%84%E4%B9%90%E8%B6%A3%20(%E5%9B%BE%E7%81%B5%E5%8E%9F%E5%88%9B).epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E7%AE%97%E6%B3%95%E7%9A%84%E4%B9%90%E8%B6%A3%20(%E5%9B%BE%E7%81%B5%E5%8E%9F%E5%88%9B).azw3)
 
 
 ## 操作系统
@@ -85,6 +89,7 @@
 * 深入linux内核架构 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E6%B7%B1%E5%85%A5linux%E5%86%85%E6%A0%B8%E6%9E%B6%E6%9E%84.mobi)
 * unix编程艺术 [azw3](https://oss-blog.cdn.hujingnb.com/book/unix%E7%BC%96%E7%A8%8B%E8%89%BA%E6%9C%AF.azw3)
 * 鸟哥的Linux私房菜——基础学习篇（第四版） [mobi](https://oss-blog.cdn.hujingnb.com/book/%E9%B8%9F%E5%93%A5%E7%9A%84Linux%E7%A7%81%E6%88%BF%E8%8F%9C%E2%80%94%E2%80%94%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0%E7%AF%87%EF%BC%88%E7%AC%AC%E5%9B%9B%E7%89%88%EF%BC%89.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E9%B8%9F%E5%93%A5%E7%9A%84Linux%E7%A7%81%E6%88%BF%E8%8F%9C%E2%80%94%E2%80%94%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0%E7%AF%87%EF%BC%88%E7%AC%AC%E5%9B%9B%E7%89%88%EF%BC%89.epub)  [azw3](https://oss-blog.cdn.hujingnb.com/book/%E9%B8%9F%E5%93%A5%E7%9A%84Linux%E7%A7%81%E6%88%BF%E8%8F%9C%E2%80%94%E2%80%94%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0%E7%AF%87%EF%BC%88%E7%AC%AC%E5%9B%9B%E7%89%88%EF%BC%89.azw3)
+* 鸟哥的Linux私房菜：服务器架设篇(第3版) [mobi](https://oss-blog.cdn.hujingnb.com/book/%E9%B8%9F%E5%93%A5%E7%9A%84Linux%E7%A7%81%E6%88%BF%E8%8F%9C%EF%BC%9A%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E7%AF%87(%E7%AC%AC3%E7%89%88).mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E9%B8%9F%E5%93%A5%E7%9A%84Linux%E7%A7%81%E6%88%BF%E8%8F%9C%EF%BC%9A%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E7%AF%87(%E7%AC%AC3%E7%89%88).epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E9%B8%9F%E5%93%A5%E7%9A%84Linux%E7%A7%81%E6%88%BF%E8%8F%9C%EF%BC%9A%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E8%AE%BE%E7%AF%87(%E7%AC%AC3%E7%89%88).azw3)
 * 深入理解计算机系统 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F.azw3)
 
 
@@ -96,6 +101,7 @@
 * 计算机网络（第7版） [mobi](https://oss-blog.cdn.hujingnb.com/book/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%88%E7%AC%AC7%E7%89%88%EF%BC%89.mobi)
 * 零信任网络：在不可信网络中构建安全系统 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E9%9B%B6%E4%BF%A1%E4%BB%BB%E7%BD%91%E7%BB%9C%EF%BC%9A%E5%9C%A8%E4%B8%8D%E5%8F%AF%E4%BF%A1%E7%BD%91%E7%BB%9C%E4%B8%AD%E6%9E%84%E5%BB%BA%E5%AE%89%E5%85%A8%E7%B3%BB%E7%BB%9F%EF%BC%88%E5%BC%82%E6%AD%A5%E5%9B%BE%E4%B9%A6%EF%BC%89.mobi)
 * 深入理解计算机网络 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.azw3)
+* 5G：开启未来无线通信创新之路 [mobi](https://oss-blog.cdn.hujingnb.com/book/5G%EF%BC%9A%E5%BC%80%E5%90%AF%E6%9C%AA%E6%9D%A5%E6%97%A0%E7%BA%BF%E9%80%9A%E4%BF%A1%E5%88%9B%E6%96%B0%E4%B9%8B%E8%B7%AF.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/5G%EF%BC%9A%E5%BC%80%E5%90%AF%E6%9C%AA%E6%9D%A5%E6%97%A0%E7%BA%BF%E9%80%9A%E4%BF%A1%E5%88%9B%E6%96%B0%E4%B9%8B%E8%B7%AF.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/5G%EF%BC%9A%E5%BC%80%E5%90%AF%E6%9C%AA%E6%9D%A5%E6%97%A0%E7%BA%BF%E9%80%9A%E4%BF%A1%E5%88%9B%E6%96%B0%E4%B9%8B%E8%B7%AF.azw3)
 
 
 
@@ -139,6 +145,7 @@
 * 微服务设计 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E5%BE%AE%E6%9C%8D%E5%8A%A1%E8%AE%BE%E8%AE%A1.mobi)
 * 技术人的百宝黑皮书(阿里巴巴2020技术年货) [pdf](https://oss-blog.cdn.hujingnb.com/book/%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%9A%84%E7%99%BE%E5%AE%9D%E9%BB%91%E7%9A%AE%E4%B9%A6(%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B42020%E6%8A%80%E6%9C%AF%E5%B9%B4%E8%B4%A7).pdf)
 * 编程格调（异步图书） [mobi](https://oss-blog.cdn.hujingnb.com/book/%E7%BC%96%E7%A8%8B%E6%A0%BC%E8%B0%83%EF%BC%88%E5%BC%82%E6%AD%A5%E5%9B%BE%E4%B9%A6%EF%BC%89.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E7%BC%96%E7%A8%8B%E6%A0%BC%E8%B0%83%EF%BC%88%E5%BC%82%E6%AD%A5%E5%9B%BE%E4%B9%A6%EF%BC%89.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E7%BC%96%E7%A8%8B%E6%A0%BC%E8%B0%83%EF%BC%88%E5%BC%82%E6%AD%A5%E5%9B%BE%E4%B9%A6%EF%BC%89.azw3)
+* 自制搜索引擎 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E8%87%AA%E5%88%B6%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E8%87%AA%E5%88%B6%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E8%87%AA%E5%88%B6%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E.azw3)
 
 ## 项目
 
@@ -163,6 +170,7 @@
 * 精益创业实战第2版 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E7%B2%BE%E7%9B%8A%E5%88%9B%E4%B8%9A%E5%AE%9E%E6%88%98%E7%AC%AC2%E7%89%88.mobi)
 * 别想那只大象-乔治莱考夫 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E5%88%AB%E6%83%B3%E9%82%A3%E5%8F%AA%E5%A4%A7%E8%B1%A1-%E4%B9%94%E6%B2%BB%E8%8E%B1%E8%80%83%E5%A4%AB.mobi) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E5%88%AB%E6%83%B3%E9%82%A3%E5%8F%AA%E5%A4%A7%E8%B1%A1-%E4%B9%94%E6%B2%BB%E8%8E%B1%E8%80%83%E5%A4%AB.azw3)
 * 创业无畏：指数级成长路线图 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E5%88%9B%E4%B8%9A%E6%97%A0%E7%95%8F%EF%BC%9A%E6%8C%87%E6%95%B0%E7%BA%A7%E6%88%90%E9%95%BF%E8%B7%AF%E7%BA%BF%E5%9B%BE.mobi)   [azw3](https://oss-blog.cdn.hujingnb.com/book/%E5%88%9B%E4%B8%9A%E6%97%A0%E7%95%8F%EF%BC%9A%E6%8C%87%E6%95%B0%E7%BA%A7%E6%88%90%E9%95%BF%E8%B7%AF%E7%BA%BF%E5%9B%BE.azw3)
+* Google工作整理术（解读版） [mobi](https://oss-blog.cdn.hujingnb.com/book/Google%E5%B7%A5%E4%BD%9C%E6%95%B4%E7%90%86%E6%9C%AF%EF%BC%88%E8%A7%A3%E8%AF%BB%E7%89%88%EF%BC%89.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/Google%E5%B7%A5%E4%BD%9C%E6%95%B4%E7%90%86%E6%9C%AF%EF%BC%88%E8%A7%A3%E8%AF%BB%E7%89%88%EF%BC%89.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/Google%E5%B7%A5%E4%BD%9C%E6%95%B4%E7%90%86%E6%9C%AF%EF%BC%88%E8%A7%A3%E8%AF%BB%E7%89%88%EF%BC%89.azw3)
 
 ## 产品
 
@@ -172,6 +180,8 @@
 * 从零开始做产品经理产品经理的第一本书 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%81%9A%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E7%9A%84%E7%AC%AC%E4%B8%80%E6%9C%AC%E4%B9%A6.mobi) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%81%9A%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E7%9A%84%E7%AC%AC%E4%B8%80%E6%9C%AC%E4%B9%A6.azw3)
 * 畅销的原理为什么好观念、好产品会一炮而红 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E7%95%85%E9%94%80%E7%9A%84%E5%8E%9F%E7%90%86%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%BD%E8%A7%82%E5%BF%B5%E3%80%81%E5%A5%BD%E4%BA%A7%E5%93%81%E4%BC%9A%E4%B8%80%E7%82%AE%E8%80%8C%E7%BA%A2.mobi)   [epub](https://oss-blog.cdn.hujingnb.com/book/%E7%95%85%E9%94%80%E7%9A%84%E5%8E%9F%E7%90%86%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%BD%E8%A7%82%E5%BF%B5%E3%80%81%E5%A5%BD%E4%BA%A7%E5%93%81%E4%BC%9A%E4%B8%80%E7%82%AE%E8%80%8C%E7%BA%A2.epub)   [azw3](https://oss-blog.cdn.hujingnb.com/book/%E7%95%85%E9%94%80%E7%9A%84%E5%8E%9F%E7%90%86%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%BD%E8%A7%82%E5%BF%B5%E3%80%81%E5%A5%BD%E4%BA%A7%E5%93%81%E4%BC%9A%E4%B8%80%E7%82%AE%E8%80%8C%E7%BA%A2.azw3)
 * 一生的旅程：迪士尼CEO自述批量打造超级IP的经营哲学 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E4%B8%80%E7%94%9F%E7%9A%84%E6%97%85%E7%A8%8B%EF%BC%9A%E8%BF%AA%E5%A3%AB%E5%B0%BCCEO%E8%87%AA%E8%BF%B0%E6%89%B9%E9%87%8F%E6%89%93%E9%80%A0%E8%B6%85%E7%BA%A7IP%E7%9A%84%E7%BB%8F%E8%90%A5%E5%93%B2%E5%AD%A6.mobi) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E4%B8%80%E7%94%9F%E7%9A%84%E6%97%85%E7%A8%8B%EF%BC%9A%E8%BF%AA%E5%A3%AB%E5%B0%BCCEO%E8%87%AA%E8%BF%B0%E6%89%B9%E9%87%8F%E6%89%93%E9%80%A0%E8%B6%85%E7%BA%A7IP%E7%9A%84%E7%BB%8F%E8%90%A5%E5%93%B2%E5%AD%A6.azw3) [epub](https://oss-blog.cdn.hujingnb.com/book/%E4%B8%80%E7%94%9F%E7%9A%84%E6%97%85%E7%A8%8B%EF%BC%9A%E8%BF%AA%E5%A3%AB%E5%B0%BCCEO%E8%87%AA%E8%BF%B0%E6%89%B9%E9%87%8F%E6%89%93%E9%80%A0%E8%B6%85%E7%BA%A7IP%E7%9A%84%E7%BB%8F%E8%90%A5%E5%93%B2%E5%AD%A6.epub) [pdf](https://oss-blog.cdn.hujingnb.com/book/%E4%B8%80%E7%94%9F%E7%9A%84%E6%97%85%E7%A8%8B%EF%BC%9A%E8%BF%AA%E5%A3%AB%E5%B0%BCCEO%E8%87%AA%E8%BF%B0%E6%89%B9%E9%87%8F%E6%89%93%E9%80%A0%E8%B6%85%E7%BA%A7IP%E7%9A%84%E7%BB%8F%E8%90%A5%E5%93%B2%E5%AD%A6.pdf)
+* 超级IP：互联网新物种方法论 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E8%B6%85%E7%BA%A7IP%EF%BC%9A%E4%BA%92%E8%81%94%E7%BD%91%E6%96%B0%E7%89%A9%E7%A7%8D%E6%96%B9%E6%B3%95%E8%AE%BA.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E8%B6%85%E7%BA%A7IP%EF%BC%9A%E4%BA%92%E8%81%94%E7%BD%91%E6%96%B0%E7%89%A9%E7%A7%8D%E6%96%B9%E6%B3%95%E8%AE%BA.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E8%B6%85%E7%BA%A7IP%EF%BC%9A%E4%BA%92%E8%81%94%E7%BD%91%E6%96%B0%E7%89%A9%E7%A7%8D%E6%96%B9%E6%B3%95%E8%AE%BA.epub)
+* 凭什么让你充值：一个游戏策划的自我修养 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E5%87%AD%E4%BB%80%E4%B9%88%E8%AE%A9%E4%BD%A0%E5%85%85%E5%80%BC%EF%BC%9A%E4%B8%80%E4%B8%AA%E6%B8%B8%E6%88%8F%E7%AD%96%E5%88%92%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E5%87%AD%E4%BB%80%E4%B9%88%E8%AE%A9%E4%BD%A0%E5%85%85%E5%80%BC%EF%BC%9A%E4%B8%80%E4%B8%AA%E6%B8%B8%E6%88%8F%E7%AD%96%E5%88%92%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB.epub)
 
 
 ## 程序人生
@@ -179,6 +189,7 @@
 * 代码之外的功夫程序员精进之路 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E4%BB%A3%E7%A0%81%E4%B9%8B%E5%A4%96%E7%9A%84%E5%8A%9F%E5%A4%AB%E7%A8%8B%E5%BA%8F%E5%91%98%E7%B2%BE%E8%BF%9B%E4%B9%8B%E8%B7%AF.mobi)
 * 代码的未来 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E4%BB%A3%E7%A0%81%E7%9A%84%E6%9C%AA%E6%9D%A5.mobi)
 * 华为传（2020） [mobi](https://oss-blog.cdn.hujingnb.com/book/%E5%8D%8E%E4%B8%BA%E4%BC%A0%EF%BC%882020%EF%BC%89.mobi)
+* 大头侃人：任正非 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E5%A4%A7%E5%A4%B4%E4%BE%83%E4%BA%BA%EF%BC%9A%E4%BB%BB%E6%AD%A3%E9%9D%9E.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E5%A4%A7%E5%A4%B4%E4%BE%83%E4%BA%BA%EF%BC%9A%E4%BB%BB%E6%AD%A3%E9%9D%9E.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E5%A4%A7%E5%A4%B4%E4%BE%83%E4%BA%BA%EF%BC%9A%E4%BB%BB%E6%AD%A3%E9%9D%9E.azw3)
 * 只是为了好玩 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E5%8F%AA%E6%98%AF%E4%B8%BA%E4%BA%86%E5%A5%BD%E7%8E%A9.mobi)
 * 哥德尔艾舍尔巴赫集异璧之大成 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E5%93%A5%E5%BE%B7%E5%B0%94%E8%89%BE%E8%88%8D%E5%B0%94%E5%B7%B4%E8%B5%AB%E9%9B%86%E5%BC%82%E7%92%A7%E4%B9%8B%E5%A4%A7%E6%88%90.mobi)
 * 图灵的秘密他的生平思想及论文解读 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E5%9B%BE%E7%81%B5%E7%9A%84%E7%A7%98%E5%AF%86%E4%BB%96%E7%9A%84%E7%94%9F%E5%B9%B3%E6%80%9D%E6%83%B3%E5%8F%8A%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB.mobi)
@@ -197,11 +208,13 @@
 * 软件项目估算 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E8%BD%AF%E4%BB%B6%E9%A1%B9%E7%9B%AE%E4%BC%B0%E7%AE%97.mobi) [pdf](https://oss-blog.cdn.hujingnb.com/book/%E8%BD%AF%E4%BB%B6%E9%A1%B9%E7%9B%AE%E4%BC%B0%E7%AE%97.pdf)
 * 软技能代码之外的生存指南 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E8%BD%AF%E6%8A%80%E8%83%BD%E4%BB%A3%E7%A0%81%E4%B9%8B%E5%A4%96%E7%9A%84%E7%94%9F%E5%AD%98%E6%8C%87%E5%8D%97.mobi)
 * 黑客与画家 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E9%BB%91%E5%AE%A2%E4%B8%8E%E7%94%BB%E5%AE%B6.mobi)
+* 硅谷之火（第3版） [mobi](https://oss-blog.cdn.hujingnb.com/book/%E7%A1%85%E8%B0%B7%E4%B9%8B%E7%81%AB%EF%BC%88%E7%AC%AC3%E7%89%88%EF%BC%89.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E7%A1%85%E8%B0%B7%E4%B9%8B%E7%81%AB%EF%BC%88%E7%AC%AC3%E7%89%88%EF%BC%89.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E7%A1%85%E8%B0%B7%E4%B9%8B%E7%81%AB%EF%BC%88%E7%AC%AC3%E7%89%88%EF%BC%89.azw3)
 
 ## 其他
 
 * 暗网 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E6%9A%97%E7%BD%91.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E6%9A%97%E7%BD%91.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E6%9A%97%E7%BD%91.azw3)
 * 我是一个程序员 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E6%88%91%E6%98%AF%E4%B8%80%E4%B8%AA%E7%A8%8B%E5%BA%8F%E5%91%98.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E6%88%91%E6%98%AF%E4%B8%80%E4%B8%AA%E7%A8%8B%E5%BA%8F%E5%91%98.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E6%88%91%E6%98%AF%E4%B8%80%E4%B8%AA%E7%A8%8B%E5%BA%8F%E5%91%98.azw3)
+* 在搜索引擎首页露脸的N种方法 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E5%9C%A8%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E9%A6%96%E9%A1%B5%E9%9C%B2%E8%84%B8%E7%9A%84N%E7%A7%8D%E6%96%B9%E6%B3%95.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E5%9C%A8%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E9%A6%96%E9%A1%B5%E9%9C%B2%E8%84%B8%E7%9A%84N%E7%A7%8D%E6%96%B9%E6%B3%95.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E5%9C%A8%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E9%A6%96%E9%A1%B5%E9%9C%B2%E8%84%B8%E7%9A%84N%E7%A7%8D%E6%96%B9%E6%B3%95.azw3)
 
 # 学术
 
@@ -241,11 +254,15 @@
 * 超效率手册-99个史上更全面的时间管理技巧 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E8%B6%85%E6%95%88%E7%8E%87%E6%89%8B%E5%86%8C-99%E4%B8%AA%E5%8F%B2%E4%B8%8A%E6%9B%B4%E5%85%A8%E9%9D%A2%E7%9A%84%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86%E6%8A%80%E5%B7%A7.mobi)
 * 麦肯锡方法 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E9%BA%A6%E8%82%AF%E9%94%A1%E6%96%B9%E6%B3%95.mobi)
 * 如何阅读一本书 [epub](https://oss-blog.cdn.hujingnb.com/book/%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6.epub) [mobi](https://oss-blog.cdn.hujingnb.com/book/%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6.mobi)
+* 你骨子里是个牛人 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E4%BD%A0%E9%AA%A8%E5%AD%90%E9%87%8C%E6%98%AF%E4%B8%AA%E7%89%9B%E4%BA%BA.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E4%BD%A0%E9%AA%A8%E5%AD%90%E9%87%8C%E6%98%AF%E4%B8%AA%E7%89%9B%E4%BA%BA.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E4%BD%A0%E9%AA%A8%E5%AD%90%E9%87%8C%E6%98%AF%E4%B8%AA%E7%89%9B%E4%BA%BA.azw3)
+* 好习惯的秘密 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E5%A5%BD%E4%B9%A0%E6%83%AF%E7%9A%84%E7%A7%98%E5%AF%86.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E5%A5%BD%E4%B9%A0%E6%83%AF%E7%9A%84%E7%A7%98%E5%AF%86.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E5%A5%BD%E4%B9%A0%E6%83%AF%E7%9A%84%E7%A7%98%E5%AF%86.azw3)
 
 ## 心理
 
 * 蛤蟆先生去看心理医生 [epub](https://oss-blog.cdn.hujingnb.com/book/%E8%9B%A4%E8%9F%86%E5%85%88%E7%94%9F%E5%8E%BB%E7%9C%8B%E5%BF%83%E7%90%86%E5%8C%BB%E7%94%9F.epub) [mobi](https://oss-blog.cdn.hujingnb.com/book/%E8%9B%A4%E8%9F%86%E5%85%88%E7%94%9F%E5%8E%BB%E7%9C%8B%E5%BF%83%E7%90%86%E5%8C%BB%E7%94%9F.mobi)
 * 社交恐惧心理学 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E7%A4%BE%E4%BA%A4%E6%81%90%E6%83%A7%E5%BF%83%E7%90%86%E5%AD%A6.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E7%A4%BE%E4%BA%A4%E6%81%90%E6%83%A7%E5%BF%83%E7%90%86%E5%AD%A6.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E7%A4%BE%E4%BA%A4%E6%81%90%E6%83%A7%E5%BF%83%E7%90%86%E5%AD%A6.azw3)
+* 网络心理学 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E7%BD%91%E7%BB%9C%E5%BF%83%E7%90%86%E5%AD%A6.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E7%BD%91%E7%BB%9C%E5%BF%83%E7%90%86%E5%AD%A6.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E7%BD%91%E7%BB%9C%E5%BF%83%E7%90%86%E5%AD%A6.azw3)
+* 网络心理学：隐藏在现象背后的行为设计真相 [epub](https://oss-blog.cdn.hujingnb.com/book/%E7%BD%91%E7%BB%9C%E5%BF%83%E7%90%86%E5%AD%A6%EF%BC%9A%E9%9A%90%E8%97%8F%E5%9C%A8%E7%8E%B0%E8%B1%A1%E8%83%8C%E5%90%8E%E7%9A%84%E8%A1%8C%E4%B8%BA%E8%AE%BE%E8%AE%A1%E7%9C%9F%E7%9B%B8.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E7%BD%91%E7%BB%9C%E5%BF%83%E7%90%86%E5%AD%A6%EF%BC%9A%E9%9A%90%E8%97%8F%E5%9C%A8%E7%8E%B0%E8%B1%A1%E8%83%8C%E5%90%8E%E7%9A%84%E8%A1%8C%E4%B8%BA%E8%AE%BE%E8%AE%A1%E7%9C%9F%E7%9B%B8.azw3)
 
 
 ## 其他
@@ -261,6 +278,7 @@
 * 大脑整理术 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E5%A4%A7%E8%84%91%E6%95%B4%E7%90%86%E6%9C%AF.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E5%A4%A7%E8%84%91%E6%95%B4%E7%90%86%E6%9C%AF.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E5%A4%A7%E8%84%91%E6%95%B4%E7%90%86%E6%9C%AF.azw3)
 * 从祖先到算法 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E4%BB%8E%E7%A5%96%E5%85%88%E5%88%B0%E7%AE%97%E6%B3%95.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E4%BB%8E%E7%A5%96%E5%85%88%E5%88%B0%E7%AE%97%E6%B3%95.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E4%BB%8E%E7%A5%96%E5%85%88%E5%88%B0%E7%AE%97%E6%B3%95.azw3)
 * 电竞简史 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E7%94%B5%E7%AB%9E%E7%AE%80%E5%8F%B2.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E7%94%B5%E7%AB%9E%E7%AE%80%E5%8F%B2.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E7%94%B5%E7%AB%9E%E7%AE%80%E5%8F%B2.azw3)
+* 柏拉图与技术呆子：人类与技术的创造性伙伴关系 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E6%9F%8F%E6%8B%89%E5%9B%BE%E4%B8%8E%E6%8A%80%E6%9C%AF%E5%91%86%E5%AD%90%EF%BC%9A%E4%BA%BA%E7%B1%BB%E4%B8%8E%E6%8A%80%E6%9C%AF%E7%9A%84%E5%88%9B%E9%80%A0%E6%80%A7%E4%BC%99%E4%BC%B4%E5%85%B3%E7%B3%BB.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E6%9F%8F%E6%8B%89%E5%9B%BE%E4%B8%8E%E6%8A%80%E6%9C%AF%E5%91%86%E5%AD%90%EF%BC%9A%E4%BA%BA%E7%B1%BB%E4%B8%8E%E6%8A%80%E6%9C%AF%E7%9A%84%E5%88%9B%E9%80%A0%E6%80%A7%E4%BC%99%E4%BC%B4%E5%85%B3%E7%B3%BB.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E6%9F%8F%E6%8B%89%E5%9B%BE%E4%B8%8E%E6%8A%80%E6%9C%AF%E5%91%86%E5%AD%90%EF%BC%9A%E4%BA%BA%E7%B1%BB%E4%B8%8E%E6%8A%80%E6%9C%AF%E7%9A%84%E5%88%9B%E9%80%A0%E6%80%A7%E4%BC%99%E4%BC%B4%E5%85%B3%E7%B3%BB.azw3)
 
 
 # 表达
@@ -278,6 +296,7 @@
 * 轻松说服 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E8%BD%BB%E6%9D%BE%E8%AF%B4%E6%9C%8D.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E8%BD%BB%E6%9D%BE%E8%AF%B4%E6%9C%8D.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E8%BD%BB%E6%9D%BE%E8%AF%B4%E6%9C%8D.azw3)
 * 把话说到点子上 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E6%8A%8A%E8%AF%9D%E8%AF%B4%E5%88%B0%E7%82%B9%E5%AD%90%E4%B8%8A.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E6%8A%8A%E8%AF%9D%E8%AF%B4%E5%88%B0%E7%82%B9%E5%AD%90%E4%B8%8A.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E6%8A%8A%E8%AF%9D%E8%AF%B4%E5%88%B0%E7%82%B9%E5%AD%90%E4%B8%8A.azw3)
 * 当时这样说就好了 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E5%BD%93%E6%97%B6%E8%BF%99%E6%A0%B7%E8%AF%B4%E5%B0%B1%E5%A5%BD%E4%BA%86.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E5%BD%93%E6%97%B6%E8%BF%99%E6%A0%B7%E8%AF%B4%E5%B0%B1%E5%A5%BD%E4%BA%86.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E5%BD%93%E6%97%B6%E8%BF%99%E6%A0%B7%E8%AF%B4%E5%B0%B1%E5%A5%BD%E4%BA%86.azw3)
+* 说笑：有效有范儿的表达技巧 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E8%AF%B4%E7%AC%91%EF%BC%9A%E6%9C%89%E6%95%88%E6%9C%89%E8%8C%83%E5%84%BF%E7%9A%84%E8%A1%A8%E8%BE%BE%E6%8A%80%E5%B7%A7.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E8%AF%B4%E7%AC%91%EF%BC%9A%E6%9C%89%E6%95%88%E6%9C%89%E8%8C%83%E5%84%BF%E7%9A%84%E8%A1%A8%E8%BE%BE%E6%8A%80%E5%B7%A7.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E8%AF%B4%E7%AC%91%EF%BC%9A%E6%9C%89%E6%95%88%E6%9C%89%E8%8C%83%E5%84%BF%E7%9A%84%E8%A1%A8%E8%BE%BE%E6%8A%80%E5%B7%A7.azw3)
 
 ## 演讲
 
@@ -331,6 +350,7 @@
 * 为什么：关于因果关系的新科学 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E4%B8%BA%E4%BB%80%E4%B9%88%EF%BC%9A%E5%85%B3%E4%BA%8E%E5%9B%A0%E6%9E%9C%E5%85%B3%E7%B3%BB%E7%9A%84%E6%96%B0%E7%A7%91%E5%AD%A6.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E4%B8%BA%E4%BB%80%E4%B9%88%EF%BC%9A%E5%85%B3%E4%BA%8E%E5%9B%A0%E6%9E%9C%E5%85%B3%E7%B3%BB%E7%9A%84%E6%96%B0%E7%A7%91%E5%AD%A6.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E4%B8%BA%E4%BB%80%E4%B9%88%EF%BC%9A%E5%85%B3%E4%BA%8E%E5%9B%A0%E6%9E%9C%E5%85%B3%E7%B3%BB%E7%9A%84%E6%96%B0%E7%A7%91%E5%AD%A6.azw3)
 * 拆掉思维里的墙 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E6%8B%86%E6%8E%89%E6%80%9D%E7%BB%B4%E9%87%8C%E7%9A%84%E5%A2%99.mobi) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E6%8B%86%E6%8E%89%E6%80%9D%E7%BB%B4%E9%87%8C%E7%9A%84%E5%A2%99.azw3)
 * 把时间当作朋友（第3版） [mobi](https://oss-blog.cdn.hujingnb.com/book/%E6%8A%8A%E6%97%B6%E9%97%B4%E5%BD%93%E4%BD%9C%E6%9C%8B%E5%8F%8B%EF%BC%88%E7%AC%AC3%E7%89%88%EF%BC%89.mobi)
+* 思维盲点：任何人都会有的思维误区 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E6%80%9D%E7%BB%B4%E7%9B%B2%E7%82%B9%EF%BC%9A%E4%BB%BB%E4%BD%95%E4%BA%BA%E9%83%BD%E4%BC%9A%E6%9C%89%E7%9A%84%E6%80%9D%E7%BB%B4%E8%AF%AF%E5%8C%BA.mobi) [mobi](https://oss-blog.cdn.hujingnb.com/book/%E6%80%9D%E7%BB%B4%E7%9B%B2%E7%82%B9%EF%BC%9A%E4%BB%BB%E4%BD%95%E4%BA%BA%E9%83%BD%E4%BC%9A%E6%9C%89%E7%9A%84%E6%80%9D%E7%BB%B4%E8%AF%AF%E5%8C%BA.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E6%80%9D%E7%BB%B4%E7%9B%B2%E7%82%B9%EF%BC%9A%E4%BB%BB%E4%BD%95%E4%BA%BA%E9%83%BD%E4%BC%9A%E6%9C%89%E7%9A%84%E6%80%9D%E7%BB%B4%E8%AF%AF%E5%8C%BA.azw3)
 
 
 
@@ -350,6 +370,8 @@
 * 基度山伯爵（全2册） [mobi](https://oss-blog.cdn.hujingnb.com/book/%E5%9F%BA%E5%BA%A6%E5%B1%B1%E4%BC%AF%E7%88%B5%EF%BC%88%E5%85%A82%E5%86%8C%EF%BC%89.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E5%9F%BA%E5%BA%A6%E5%B1%B1%E4%BC%AF%E7%88%B5%EF%BC%88%E5%85%A82%E5%86%8C%EF%BC%89.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E5%9F%BA%E5%BA%A6%E5%B1%B1%E4%BC%AF%E7%88%B5%EF%BC%88%E5%85%A82%E5%86%8C%EF%BC%89.azw3)
 * 少年维特的烦恼 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E5%B0%91%E5%B9%B4%E7%BB%B4%E7%89%B9%E7%9A%84%E7%83%A6%E6%81%BC.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E5%B0%91%E5%B9%B4%E7%BB%B4%E7%89%B9%E7%9A%84%E7%83%A6%E6%81%BC.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E5%B0%91%E5%B9%B4%E7%BB%B4%E7%89%B9%E7%9A%84%E7%83%A6%E6%81%BC.azw3)
 * 伊索寓言 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E4%BC%8A%E7%B4%A2%E5%AF%93%E8%A8%80.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E4%BC%8A%E7%B4%A2%E5%AF%93%E8%A8%80.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E4%BC%8A%E7%B4%A2%E5%AF%93%E8%A8%80.azw3)
+* 我弥留之际 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E6%88%91%E5%BC%A5%E7%95%99%E4%B9%8B%E9%99%85.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E6%88%91%E5%BC%A5%E7%95%99%E4%B9%8B%E9%99%85.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E6%88%91%E5%BC%A5%E7%95%99%E4%B9%8B%E9%99%85.azw3)
+* 失落世界（套装2册） [mobi](https://oss-blog.cdn.hujingnb.com/book/%E5%A4%B1%E8%90%BD%E4%B8%96%E7%95%8C%EF%BC%88%E5%A5%97%E8%A3%852%E5%86%8C%EF%BC%89.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E5%A4%B1%E8%90%BD%E4%B8%96%E7%95%8C%EF%BC%88%E5%A5%97%E8%A3%852%E5%86%8C%EF%BC%89.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E5%A4%B1%E8%90%BD%E4%B8%96%E7%95%8C%EF%BC%88%E5%A5%97%E8%A3%852%E5%86%8C%EF%BC%89.azw3)
 
 
 ## 其他
@@ -370,6 +392,9 @@
 * 终极复制 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E7%BB%88%E6%9E%81%E5%A4%8D%E5%88%B6.mobi)
 * 终极算法机器学习和人工智能如何重塑世界 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E7%BB%88%E6%9E%81%E7%AE%97%E6%B3%95%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%92%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E4%B8%96%E7%95%8C.mobi)
 * 超级技术：改变未来社会和商业的技术趋势 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E8%B6%85%E7%BA%A7%E6%8A%80%E6%9C%AF%EF%BC%9A%E6%94%B9%E5%8F%98%E6%9C%AA%E6%9D%A5%E7%A4%BE%E4%BC%9A%E5%92%8C%E5%95%86%E4%B8%9A%E7%9A%84%E6%8A%80%E6%9C%AF%E8%B6%8B%E5%8A%BF.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E8%B6%85%E7%BA%A7%E6%8A%80%E6%9C%AF%EF%BC%9A%E6%94%B9%E5%8F%98%E6%9C%AA%E6%9D%A5%E7%A4%BE%E4%BC%9A%E5%92%8C%E5%95%86%E4%B8%9A%E7%9A%84%E6%8A%80%E6%9C%AF%E8%B6%8B%E5%8A%BF.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E8%B6%85%E7%BA%A7%E6%8A%80%E6%9C%AF%EF%BC%9A%E6%94%B9%E5%8F%98%E6%9C%AA%E6%9D%A5%E7%A4%BE%E4%BC%9A%E5%92%8C%E5%95%86%E4%B8%9A%E7%9A%84%E6%8A%80%E6%9C%AF%E8%B6%8B%E5%8A%BF.azw3)
+* 亲爱的生活 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E4%BA%B2%E7%88%B1%E7%9A%84%E7%94%9F%E6%B4%BB.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E4%BA%B2%E7%88%B1%E7%9A%84%E7%94%9F%E6%B4%BB.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E4%BA%B2%E7%88%B1%E7%9A%84%E7%94%9F%E6%B4%BB.azw3)
+* 活出人生最好的可能 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E6%B4%BB%E5%87%BA%E4%BA%BA%E7%94%9F%E6%9C%80%E5%A5%BD%E7%9A%84%E5%8F%AF%E8%83%BD.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E6%B4%BB%E5%87%BA%E4%BA%BA%E7%94%9F%E6%9C%80%E5%A5%BD%E7%9A%84%E5%8F%AF%E8%83%BD.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E6%B4%BB%E5%87%BA%E4%BA%BA%E7%94%9F%E6%9C%80%E5%A5%BD%E7%9A%84%E5%8F%AF%E8%83%BD.azw3)
+* 生命不息，折腾不止 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E7%94%9F%E5%91%BD%E4%B8%8D%E6%81%AF%EF%BC%8C%E6%8A%98%E8%85%BE%E4%B8%8D%E6%AD%A2.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E7%94%9F%E5%91%BD%E4%B8%8D%E6%81%AF%EF%BC%8C%E6%8A%98%E8%85%BE%E4%B8%8D%E6%AD%A2.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E7%94%9F%E5%91%BD%E4%B8%8D%E6%81%AF%EF%BC%8C%E6%8A%98%E8%85%BE%E4%B8%8D%E6%AD%A2.azw3)
 
 
 

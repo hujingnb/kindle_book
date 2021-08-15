@@ -1,8 +1,6 @@
 存放一些`kindle`的图书
 
-有一些是免费搜集的, 有些是购买的. 希望能帮到你. 以下书名为超链接, 点击可直接下载.
-
-[TOC]
+有一些是免费搜集的, 有些是购买的. 希望能帮到你.
 
 
 # 程序
@@ -280,6 +278,7 @@
 * 网络心理学 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E7%BD%91%E7%BB%9C%E5%BF%83%E7%90%86%E5%AD%A6.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E7%BD%91%E7%BB%9C%E5%BF%83%E7%90%86%E5%AD%A6.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E7%BD%91%E7%BB%9C%E5%BF%83%E7%90%86%E5%AD%A6.azw3)
 * 网络心理学：隐藏在现象背后的行为设计真相 [epub](https://oss-blog.cdn.hujingnb.com/book/%E7%BD%91%E7%BB%9C%E5%BF%83%E7%90%86%E5%AD%A6%EF%BC%9A%E9%9A%90%E8%97%8F%E5%9C%A8%E7%8E%B0%E8%B1%A1%E8%83%8C%E5%90%8E%E7%9A%84%E8%A1%8C%E4%B8%BA%E8%AE%BE%E8%AE%A1%E7%9C%9F%E7%9B%B8.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E7%BD%91%E7%BB%9C%E5%BF%83%E7%90%86%E5%AD%A6%EF%BC%9A%E9%9A%90%E8%97%8F%E5%9C%A8%E7%8E%B0%E8%B1%A1%E8%83%8C%E5%90%8E%E7%9A%84%E8%A1%8C%E4%B8%BA%E8%AE%BE%E8%AE%A1%E7%9C%9F%E7%9B%B8.azw3)
 * 爆笑吧！心理学大神来了 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E7%88%86%E7%AC%91%E5%90%A7%EF%BC%81%E5%BF%83%E7%90%86%E5%AD%A6%E5%A4%A7%E7%A5%9E%E6%9D%A5%E4%BA%86.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E7%88%86%E7%AC%91%E5%90%A7%EF%BC%81%E5%BF%83%E7%90%86%E5%AD%A6%E5%A4%A7%E7%A5%9E%E6%9D%A5%E4%BA%86.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E7%88%86%E7%AC%91%E5%90%A7%EF%BC%81%E5%BF%83%E7%90%86%E5%AD%A6%E5%A4%A7%E7%A5%9E%E6%9D%A5%E4%BA%86.azw3)
+* 天才在左疯子在右：心理疾病漫谈 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E5%A4%A9%E6%89%8D%E5%9C%A8%E5%B7%A6%E7%96%AF%E5%AD%90%E5%9C%A8%E5%8F%B3%EF%BC%9A%E5%BF%83%E7%90%86%E7%96%BE%E7%97%85%E6%BC%AB%E8%B0%88.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E5%A4%A9%E6%89%8D%E5%9C%A8%E5%B7%A6%E7%96%AF%E5%AD%90%E5%9C%A8%E5%8F%B3%EF%BC%9A%E5%BF%83%E7%90%86%E7%96%BE%E7%97%85%E6%BC%AB%E8%B0%88.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E5%A4%A9%E6%89%8D%E5%9C%A8%E5%B7%A6%E7%96%AF%E5%AD%90%E5%9C%A8%E5%8F%B3%EF%BC%9A%E5%BF%83%E7%90%86%E7%96%BE%E7%97%85%E6%BC%AB%E8%B0%88.azw3)
 
 
 ## 其他
@@ -347,7 +346,6 @@
 
 * 一个人的朝圣 [azw3](https://oss-blog.cdn.hujingnb.com/book/%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E6%9C%9D%E5%9C%A3.azw3)
 * 天才在左疯子在右 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E5%A4%A9%E6%89%8D%E5%9C%A8%E5%B7%A6%E7%96%AF%E5%AD%90%E5%9C%A8%E5%8F%B3.mobi)
-* 天才在左疯子在右：心理疾病漫谈 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E5%A4%A9%E6%89%8D%E5%9C%A8%E5%B7%A6%E7%96%AF%E5%AD%90%E5%9C%A8%E5%8F%B3%EF%BC%9A%E5%BF%83%E7%90%86%E7%96%BE%E7%97%85%E6%BC%AB%E8%B0%88.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E5%A4%A9%E6%89%8D%E5%9C%A8%E5%B7%A6%E7%96%AF%E5%AD%90%E5%9C%A8%E5%8F%B3%EF%BC%9A%E5%BF%83%E7%90%86%E7%96%BE%E7%97%85%E6%BC%AB%E8%B0%88.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E5%A4%A9%E6%89%8D%E5%9C%A8%E5%B7%A6%E7%96%AF%E5%AD%90%E5%9C%A8%E5%8F%B3%EF%BC%9A%E5%BF%83%E7%90%86%E7%96%BE%E7%97%85%E6%BC%AB%E8%B0%88.azw3)
 * 超越智商：为什么聪明人也会做蠢事 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E8%B6%85%E8%B6%8A%E6%99%BA%E5%95%86%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E8%81%AA%E6%98%8E%E4%BA%BA%E4%B9%9F%E4%BC%9A%E5%81%9A%E8%A0%A2%E4%BA%8B.mobi)
 * 哲学家们都干了些什么 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E5%93%B2%E5%AD%A6%E5%AE%B6%E4%BB%AC%E9%83%BD%E5%B9%B2%E4%BA%86%E4%BA%9B%E4%BB%80%E4%B9%88.mobi)
 * 哲学的故事让深奥的哲学立刻生动起来 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E5%93%B2%E5%AD%A6%E7%9A%84%E6%95%85%E4%BA%8B%E8%AE%A9%E6%B7%B1%E5%A5%A5%E7%9A%84%E5%93%B2%E5%AD%A6%E7%AB%8B%E5%88%BB%E7%94%9F%E5%8A%A8%E8%B5%B7%E6%9D%A5.mobi)
@@ -379,7 +377,6 @@
 * 把时间当作朋友（第3版） [mobi](https://oss-blog.cdn.hujingnb.com/book/%E6%8A%8A%E6%97%B6%E9%97%B4%E5%BD%93%E4%BD%9C%E6%9C%8B%E5%8F%8B%EF%BC%88%E7%AC%AC3%E7%89%88%EF%BC%89.mobi)
 * 思维盲点：任何人都会有的思维误区 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E6%80%9D%E7%BB%B4%E7%9B%B2%E7%82%B9%EF%BC%9A%E4%BB%BB%E4%BD%95%E4%BA%BA%E9%83%BD%E4%BC%9A%E6%9C%89%E7%9A%84%E6%80%9D%E7%BB%B4%E8%AF%AF%E5%8C%BA.mobi) [mobi](https://oss-blog.cdn.hujingnb.com/book/%E6%80%9D%E7%BB%B4%E7%9B%B2%E7%82%B9%EF%BC%9A%E4%BB%BB%E4%BD%95%E4%BA%BA%E9%83%BD%E4%BC%9A%E6%9C%89%E7%9A%84%E6%80%9D%E7%BB%B4%E8%AF%AF%E5%8C%BA.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E6%80%9D%E7%BB%B4%E7%9B%B2%E7%82%B9%EF%BC%9A%E4%BB%BB%E4%BD%95%E4%BA%BA%E9%83%BD%E4%BC%9A%E6%9C%89%E7%9A%84%E6%80%9D%E7%BB%B4%E8%AF%AF%E5%8C%BA.azw3)
 * 人生五大问题 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E4%BA%BA%E7%94%9F%E4%BA%94%E5%A4%A7%E9%97%AE%E9%A2%98.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E4%BA%BA%E7%94%9F%E4%BA%94%E5%A4%A7%E9%97%AE%E9%A2%98.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E4%BA%BA%E7%94%9F%E4%BA%94%E5%A4%A7%E9%97%AE%E9%A2%98.azw3)
-* 你也是蘑菇吗 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E4%BD%A0%E4%B9%9F%E6%98%AF%E8%98%91%E8%8F%87%E5%90%97.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E4%BD%A0%E4%B9%9F%E6%98%AF%E8%98%91%E8%8F%87%E5%90%97.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E4%BD%A0%E4%B9%9F%E6%98%AF%E8%98%91%E8%8F%87%E5%90%97.azw3)
 
 
 
@@ -435,6 +432,7 @@
 * 好吗好的 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E5%A5%BD%E5%90%97%E5%A5%BD%E7%9A%84.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E5%A5%BD%E5%90%97%E5%A5%BD%E7%9A%84.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E5%A5%BD%E5%90%97%E5%A5%BD%E7%9A%84.azw3)
 * 脑洞 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E8%84%91%E6%B4%9E.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E8%84%91%E6%B4%9E.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E8%84%91%E6%B4%9E.azw3)
 * 人的脑洞略大于整个宇宙 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E4%BA%BA%E7%9A%84%E8%84%91%E6%B4%9E%E7%95%A5%E5%A4%A7%E4%BA%8E%E6%95%B4%E4%B8%AA%E5%AE%87%E5%AE%99.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E4%BA%BA%E7%9A%84%E8%84%91%E6%B4%9E%E7%95%A5%E5%A4%A7%E4%BA%8E%E6%95%B4%E4%B8%AA%E5%AE%87%E5%AE%99.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E4%BA%BA%E7%9A%84%E8%84%91%E6%B4%9E%E7%95%A5%E5%A4%A7%E4%BA%8E%E6%95%B4%E4%B8%AA%E5%AE%87%E5%AE%99.azw3)
+* 你也是蘑菇吗 [mobi](https://oss-blog.cdn.hujingnb.com/book/%E4%BD%A0%E4%B9%9F%E6%98%AF%E8%98%91%E8%8F%87%E5%90%97.mobi) [epub](https://oss-blog.cdn.hujingnb.com/book/%E4%BD%A0%E4%B9%9F%E6%98%AF%E8%98%91%E8%8F%87%E5%90%97.epub) [azw3](https://oss-blog.cdn.hujingnb.com/book/%E4%BD%A0%E4%B9%9F%E6%98%AF%E8%98%91%E8%8F%87%E5%90%97.azw3)
 
 
 
@@ -476,5 +474,4 @@
 有时, 通过官方工具转成`mobi`之后, 格式就乱了. 这时可以转成`azw3`格式查看, kindle 也是支持的. 这就简单多了, 很多在线工具网站都支持. 
 
 比如: [https://epub2kindle.com/zh/](https://epub2kindle.com/zh/)
-
 

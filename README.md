@@ -2,11 +2,9 @@
 
 有一些是免费搜集的, 有些是购买的. 希望能帮到你.
 
-以下书籍包含格式: `mobi`, `epub`, `azw3`, `epub`, 因`CDN`费用太高, 放弃了, 所有内容转到阿里云盘, 下载依旧不限度. 
+以下书籍包含格式: `mobi`, `epub`, `azw3`, `epub`, 因`CDN`费用太高, 国内云盘可能被和谐, 故放到阿里云盘了. 
 
-下载地址: [https://www.aliyundrive.com/s/TXfwhmpx2B9](https://www.aliyundrive.com/s/TXfwhmpx2B9)
-
-现在没有流量问题了, 随意下载. 
+下载地址: [https://drive.google.com/drive/folders/1VhHJOqXBeQsG_cXnU6l7Wz22SuFh0Y1B?usp=sharing)
 
 
 # 程序
@@ -33,6 +31,7 @@
 
 * Go语言学习笔记
 * Go语言实战
+
 ### PHP
 
 * php7内核剖析

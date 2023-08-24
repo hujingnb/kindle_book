@@ -4,8 +4,11 @@
 
 以下书籍包含格式: `mobi`, `epub`, `azw3`, `epub`, 因`CDN`费用太高, 国内云盘可能被和谐, 故放到阿里云盘了. 
 
-下载地址: [https://drive.google.com/drive/folders/1VhHJOqXBeQsG_cXnU6l7Wz22SuFh0Y1B?usp=sharing](https://drive.google.com/drive/folders/1VhHJOqXBeQsG_cXnU6l7Wz22SuFh0Y1B?usp=sharing)
+下载地址: [https://drive.google.com/drive/folders/1VhHJOqXBeQsG_cXnU6l7Wz22SuFh0Y1B](https://drive.google.com/drive/folders/1VhHJOqXBeQsG_cXnU6l7Wz22SuFh0Y1B)
 
+其他分享: 
+
+* [天涯神帖398篇](tianya.md)
 
 # 程序
 
